@@ -1,0 +1,88 @@
+/* CSS Document */
+#imgGallery
+{
+	border:solid 1px black;
+	height:380px;
+	overflow:auto;
+	padding:10px;
+}
+
+#imgBank
+{
+	/*border:solid 1px black;*/
+	width:703px;
+	height:100px;
+	overflow:hidden;
+	background-color:green;
+}
+
+.imgBankImgs
+	{
+		border-color:#cccccc;
+		width:75px;
+	}
+
+#info 
+{
+	width:500px;
+	margin:0 auto;
+	border:1px solid #ccc;
+	overflow:hidden;
+	padding:20px 35px;
+	position:relative;
+	background-color:#999999
+}
+	
+	
+	
+#info a {
+	background:#fff;
+	color:#333;
+	display:block;
+	position:absolute;
+	text-decoration:none;
+	top:50px;
+	z-index:100;
+}
+	
+#info a#move-left 
+{
+	left:5px;
+}
+	
+#info a#move-right 
+{
+	right:5px;
+}
+	
+#info .mod 
+{
+	overflow:hidden;
+}
+
+#images 
+{
+	width:2000px;
+}
+	
+#images, #images li 
+{
+	margin:0;
+	overflow: hidden;
+	padding:0;
+}
+
+#images li 
+{
+	float:left;
+	height:90px;
+	margin:0 10px 0 0;
+	width:90px;
+	padding:0;
+}
+
+#imageList
+{
+	float:left; 
+}
+	

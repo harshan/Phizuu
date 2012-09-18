@@ -1,0 +1,66 @@
+[02-Mar-2010 07:07:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT * FROM `an_connections` WHERE `app_id`=test AND `connect_date` = '2010-02-23'' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(32): Dao->query('SELECT * FROM `...')
+#1 /home/phizuu/public_html/cms/apps/model/reports/GraphBuilder.php(30): Reports->findNumTotalUUIDs(NULL, NULL, '2010-02-23')
+#2 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(46): GraphBuilder->createLineGraph(Object(Reports), 1, Array)
+#3 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT COUNT(*), `os_name` FROM `an_connections`, `an_oses` WHERE (`an_connections`.`os_id` = `an_oses`.`os_id`) AND `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF('2010-03-02',`connect_date`)>=0) GROUP BY `an_connections`.`os_id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(98): Dao->query('SELECT COUNT(*)...')
+#1 /home/phizuu/public_html/cms/apps/model/reports/GraphBuilder.php(110): Reports->findOSUsagePercentage('2010-03-02', '2010-03-02')
+#2 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(61): GraphBuilder->createOSChart(Object(Reports), Array)
+#3 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT * FROM `an_connections` WHERE `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0) GROUP BY `uuid_id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(56): Dao->query('SELECT * FROM `...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(91): Reports->findNumUniqUUIDs('2010-03-02', NULL)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT `uuid_id` FROM `an_connections` WHERE `app_id`=test AND `new_appwise` = 1 AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0)' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(80): Dao->query('SELECT `uuid_id...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(143): Reports->findNumNewUUIDs('2010-03-02', NULL)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT `an_countries`.`country_name`, COUNT(*) AS count FROM `an_connections`, `an_countries` WHERE `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0) AND (`an_connections`.`country_code` = `an_countries`.`country_code`) GROUP BY `an_connections`.`country_code` ORDER BY `count` DESC LIMIT 0,10' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(180): Dao->query('SELECT `an_coun...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(227): Reports->findVisitsByLocations('2010-03-02', NULL, '10')
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT `module_id`, COUNT(*) AS count FROM `an_connections` WHERE `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0) GROUP BY `module_id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(129): Dao->query('SELECT `module_...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(196): Reports->findNumUniqURIAccess('2010-03-02', NULL)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT * FROM `an_connections` WHERE `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0)' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(32): Dao->query('SELECT * FROM `...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(117): Reports->findNumTotalUUIDs('2010-03-02', NULL)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT `module_id`, COUNT(*) AS count FROM `an_connections` WHERE `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF('2010-03-02',`connect_date`)>=0) GROUP BY `module_id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(129): Dao->query('SELECT `module_...')
+#1 /home/phizuu/public_html/cms/apps/model/reports/GraphBuilder.php(162): Reports->findNumUniqURIAccess('2010-03-02', '2010-03-02')
+#2 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(66): GraphBuilder->createURLBarChart(Object(Reports), Array)
+#3 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[02-Mar-2010 07:07:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'test' in 'where clause'
+Whole query: SELECT COUNT(*), `os_name` FROM `an_connections`, `an_oses` WHERE (`an_connections`.`os_id` = `an_oses`.`os_id`) AND `app_id`=test AND (DATEDIFF(`connect_date`,'2010-03-02')>=0) AND (DATEDIFF(CURDATE(),`connect_date`)>=0) GROUP BY `an_connections`.`os_id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/reports/Reports.php(98): Dao->query('SELECT COUNT(*)...')
+#1 /home/phizuu/public_html/cms/apps/controller/reports/analytics/ReportController.php(169): Reports->findOSUsagePercentage('2010-03-02', NULL)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25

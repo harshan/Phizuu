@@ -1,0 +1,10 @@
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/header_bg.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}

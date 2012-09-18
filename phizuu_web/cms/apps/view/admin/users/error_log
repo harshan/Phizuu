@@ -1,0 +1,8 @@
+[03-Mar-2010 18:40:42] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[03-Mar-2010 18:41:25] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[03-Mar-2010 18:44:21] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[04-Mar-2010 00:13:00] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[04-Mar-2010 00:13:41] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[04-Mar-2010 00:13:44] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[04-Mar-2010 00:19:32] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[04-Mar-2010 02:44:09] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3

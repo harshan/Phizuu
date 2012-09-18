@@ -1,0 +1,38 @@
+	
+
+	
+	#galleryContainer{	/* Big Div surrounding up image, list of images and down image */
+	height: 500px;
+	width: 800px;
+	padding-top: 25px;
+	background-image: url(../images/icons/imagebank_bg.jpg) ;
+	background-repeat: no-repeat;
+	/*background-position: center top*/
+	margin: 0px;
+	/*text-align: center;
+	padding-right: 40px;
+	padding-left: 20px;*/
+	
+	}
+	#galleryContainer #arrow_down{	/* Arrow down image */
+	height:35px;
+	width: 720px;
+	}
+	#galleryContainer #arrow_up{
+	height:35px;	/* Arrow up image */
+	width: 720px;
+	}
+	
+	#theImages{	/* DIV where the images are located */
+		position:relative;
+		overflow:hidden;
+		height:350px;	/* Height of boxes for the images */
+		width:720px;
+	}
+	#theImages div{
+	position:relative;	/* Don't change this */
+	height:1500px;	/* Higher than total height of thumbnails */
+	vertical-align: middle;		
+	}
+	
+	

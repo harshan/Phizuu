@@ -1,0 +1,7 @@
+[09-Mar-2010 06:29:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'order' in 'order clause'
+Whole query: SELECT * FROM link WHERE user_id='2' ORDER BY `order`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/Links.php(11): Dao->query('SELECT * FROM l...')
+#1 /home/phizuu/public_html/cms/apps/controller/modules/links/LinksController.php(28): Links->listLinks('2')
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25

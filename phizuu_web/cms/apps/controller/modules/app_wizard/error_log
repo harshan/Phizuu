@@ -1,0 +1,65 @@
+[09-Mar-2010 06:39:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Table 'phizuu_analytics.ab_step' doesn't exist
+Whole query: SELECT * FROM ab_step WHERE user_id='1'' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/app_builder/Navigator.php(25): Dao->query('SELECT * FROM a...')
+#1 /home/phizuu/public_html/cms/apps/controller/modules/app_wizard/AppWizardController.php(78): Navigator->isFirstTime()
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[10-Mar-2010 08:17:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'ab_modules.module_name' in 'where clause'
+Whole query: SELECT * FROM ab_modules, aw_modules WHERE ab_modules.module_name=aw_modules.module_name AND user_id = '2'' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php(141): Dao->query('SELECT * FROM a...')
+#1 /home/phizuu/public_html/cms/apps/controller/modules/app_wizard/AppWizardController.php(58): AppWizard->getSelectedModules(true)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[10-Mar-2010 08:20:51] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: INSERT command denied to user 'phizuu_analyty'@'localhost' for table 'ab_modules'
+Whole query: INSERT INTO `phizuu_music`.`ab_modules` (`user_id`, `module_name`, `completed`) VALUES ('2', 'Home', '1');' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php(135): Dao->query('INSERT INTO `ph...')
+#1 /home/phizuu/public_html/cms/apps/controller/modules/app_wizard/AppWizardController.php(68): AppWizard->saveModuleList(Array)
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[10-Mar-2010 08:24:45] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 41
+[10-Mar-2010 08:24:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'iphone_status' in 'where clause'
+Whole query: SELECT * FROM link WHERE user_id='2' AND iphone_status='1'' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php(212): Dao->query('SELECT * FROM l...')
+#1 /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php(131): AppWizard->getContentStatus('Links')
+#2 /home/phizuu/public_html/cms/apps/controller/modules/app_wizard/AppWizardController.php(68): AppWizard->saveModuleList(Array)
+#3 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[10-Mar-2010 22:46:36] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 41
+[10-Mar-2010 22:47:06] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 41
+[11-Mar-2010 19:45:02] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 41
+[11-Mar-2010 19:57:45] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 41
+[16-Mar-2010 06:15:06] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 06:20:05] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 07:09:17] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 07:09:38] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 07:11:52] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 07:12:08] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 07:26:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php on line 115
+[16-Mar-2010 07:26:52] PHP Warning:  file_put_contents(../application_dirs/0/HHConfig.plist) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php on line 81
+[16-Mar-2010 07:26:52] PHP Warning:  copy(../temporary_files/images/126874225591_37.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php on line 85
+[16-Mar-2010 07:26:52] PHP Warning:  file_put_contents(../application_dirs/0/Bio.txt) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php on line 105
+[16-Mar-2010 11:38:35] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 11:42:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/phizuu/public_html/cms/apps/model/app_builder/AppWizard.php:118) in /home/phizuu/public_html/cms/apps/controller/modules/app_wizard/AppWizardController.php on line 210
+[16-Mar-2010 13:34:15] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 14:18:53] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 14:19:04] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 22:45:35] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 23:04:43] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[16-Mar-2010 23:04:51] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 43
+[17-Mar-2010 06:44:26] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[17-Mar-2010 08:15:29] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[17-Mar-2010 08:35:24] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[17-Mar-2010 09:10:11] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[17-Mar-2010 11:00:22] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[21-Mar-2010 05:53:52] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[21-Mar-2010 12:16:18] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[22-Mar-2010 21:59:16] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[23-Mar-2010 16:18:25] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[23-Mar-2010 23:03:49] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[24-Mar-2010 16:17:35] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[24-Mar-2010 21:32:10] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66
+[24-Mar-2010 22:29:49] PHP Warning:  Invalid argument supplied for foreach() in /home/phizuu/public_html/cms/apps/view/user/app_builder/fill_modules.php on line 66

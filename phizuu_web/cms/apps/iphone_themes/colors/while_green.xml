@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<color>
+    <name>Love</name>
+    <popup_background_color>000000</popup_background_color>
+    <navbar_tint_color>000000</navbar_tint_color>
+    <foreground_color>CCCCCC</foreground_color>
+    <background_color>000000</background_color>
+    <table_cell_odd_color>262626</table_cell_odd_color>
+    <table_cell_even_color>3C3C3C</table_cell_even_color>
+    <table_seperator_color>FFFFFF</table_seperator_color>
+    <table_background_color>CCCCCC</table_background_color>
+    <table_text_color>FFFFFF</table_text_color>
+    <banner_background_color>CCCCCC</banner_background_color>
+    <banner_text_color>FFFFFF</banner_text_color>
+    <tab_text_color>CCCCCC</tab_text_color>
+    <mini_player_foreground_color>FFFFFF</mini_player_foreground_color>
+</color>

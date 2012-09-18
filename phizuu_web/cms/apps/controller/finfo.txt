@@ -1,0 +1,631 @@
+array (
+  'GETID3_VERSION' => '1.7.9-20090308',
+  'filesize' => 78969,
+  'avdataoffset' => 266,
+  'avdataend' => 78841,
+  'fileformat' => 'mp3',
+  'audio' => 
+  array (
+    'dataformat' => 'mp3',
+    'channels' => 2,
+    'sample_rate' => 44100,
+    'bitrate' => 128000,
+    'channelmode' => 'stereo',
+    'bitrate_mode' => 'cbr',
+    'codec' => 'LAME',
+    'encoder' => 'LAME3.97',
+    'lossless' => false,
+    'encoder_options' => 'CBR128',
+    'compression_ratio' => 0.0907029478458,
+    'streams' => 
+    array (
+      0 => 
+      array (
+        'dataformat' => 'mp3',
+        'channels' => 2,
+        'sample_rate' => 44100,
+        'bitrate' => 128000,
+        'channelmode' => 'stereo',
+        'bitrate_mode' => 'cbr',
+        'codec' => 'LAME',
+        'encoder' => 'LAME3.97',
+        'lossless' => false,
+        'encoder_options' => 'CBR128',
+        'compression_ratio' => 0.0907029478458,
+      ),
+    ),
+  ),
+  'tags' => 
+  array (
+    'id3v1' => 
+    array (
+      'genre' => 
+      array (
+        0 => 'Other',
+      ),
+    ),
+    'id3v2' => 
+    array (
+      'track_number' => 
+      array (
+        0 => '1',
+      ),
+      'title' => 
+      array (
+        0 => 'Dhanushka Title',
+      ),
+      'artist' => 
+      array (
+        0 => 'Dhanushka Artist',
+      ),
+      'album' => 
+      array (
+        0 => 'Dhanushka Album',
+      ),
+      'year' => 
+      array (
+        0 => '2000',
+      ),
+      'genre' => 
+      array (
+        0 => 'Bass',
+      ),
+      'comments' => 
+      array (
+        0 => 'Test Comments',
+      ),
+    ),
+  ),
+  'warning' => 
+  array (
+    0 => 'Some ID3v1 fields do not use NULL characters for padding',
+  ),
+  'encoding' => 'ISO-8859-1',
+  'filename' => 'phpkd39us',
+  'filepath' => '/Applications/MAMP/tmp/php',
+  'filenamepath' => '/Applications/MAMP/tmp/php/phpkd39us',
+  'id3v2' => 
+  array (
+    'header' => true,
+    'flags' => 
+    array (
+      'unsynch' => false,
+      'exthead' => false,
+      'experim' => false,
+      'isfooter' => false,
+    ),
+    'majorversion' => 4,
+    'minorversion' => 0,
+    'headerlength' => 266,
+    'tag_offset_start' => 0,
+    'tag_offset_end' => 266,
+    'encoding' => 'UTF-8',
+    'comments' => 
+    array (
+      'track_number' => 
+      array (
+        0 => '1',
+      ),
+      'title' => 
+      array (
+        0 => 'Dhanushka Title',
+      ),
+      'artist' => 
+      array (
+        0 => 'Dhanushka Artist',
+      ),
+      'album' => 
+      array (
+        0 => 'Dhanushka Album',
+      ),
+      'year' => 
+      array (
+        0 => '2000',
+      ),
+      'genre' => 
+      array (
+        0 => 'Bass',
+      ),
+      'comments' => 
+      array (
+        0 => 'Test Comments',
+      ),
+    ),
+    'TRCK' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TRCK',
+        'frame_flags_raw' => 0,
+        'data' => '1',
+        'datalength' => 2,
+        'dataoffset' => 10,
+        'framenamelong' => 'Track number/Position in set',
+        'framenameshort' => 'track_number',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'TIT2' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TIT2',
+        'frame_flags_raw' => 0,
+        'data' => 'Dhanushka Title',
+        'datalength' => 16,
+        'dataoffset' => 22,
+        'framenamelong' => 'Title/songname/content description',
+        'framenameshort' => 'title',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'TPE1' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TPE1',
+        'frame_flags_raw' => 0,
+        'data' => 'Dhanushka Artist',
+        'datalength' => 17,
+        'dataoffset' => 48,
+        'framenamelong' => 'Lead performer(s)/Soloist(s)',
+        'framenameshort' => 'artist',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'TALB' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TALB',
+        'frame_flags_raw' => 0,
+        'data' => 'Dhanushka Album',
+        'datalength' => 16,
+        'dataoffset' => 75,
+        'framenamelong' => 'Album/Movie/Show title',
+        'framenameshort' => 'album',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'TYER' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TYER',
+        'frame_flags_raw' => 0,
+        'data' => '2000',
+        'datalength' => 5,
+        'dataoffset' => 101,
+        'framenamelong' => 'Year',
+        'framenameshort' => 'year',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'TCON' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'TCON',
+        'frame_flags_raw' => 0,
+        'data' => '(41)Bass',
+        'datalength' => 9,
+        'dataoffset' => 116,
+        'framenamelong' => 'Content type',
+        'framenameshort' => 'genre',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+      ),
+    ),
+    'COMM' => 
+    array (
+      0 => 
+      array (
+        'frame_name' => 'COMM',
+        'frame_flags_raw' => 0,
+        'data' => 'Test Comments',
+        'datalength' => 18,
+        'dataoffset' => 135,
+        'framenamelong' => 'Comments',
+        'framenameshort' => 'comments',
+        'flags' => 
+        array (
+          'TagAlterPreservation' => false,
+          'FileAlterPreservation' => false,
+          'ReadOnly' => false,
+          'GroupingIdentity' => false,
+          'compression' => false,
+          'Encryption' => false,
+          'Unsynchronisation' => false,
+          'DataLengthIndicator' => false,
+        ),
+        'encodingid' => 0,
+        'encoding' => 'ISO-8859-1',
+        'language' => 'eng',
+        'languagename' => 'English',
+        'description' => '',
+      ),
+    ),
+    'padding' => 
+    array (
+      'start' => 163,
+      'length' => 103,
+      'valid' => true,
+    ),
+  ),
+  'id3v1' => 
+  array (
+    'title' => '',
+    'artist' => '',
+    'album' => '',
+    'year' => '',
+    'comment' => '',
+    'genre' => 'Other',
+    'comments' => 
+    array (
+      'title' => 
+      array (
+        0 => '',
+      ),
+      'artist' => 
+      array (
+        0 => '',
+      ),
+      'album' => 
+      array (
+        0 => '',
+      ),
+      'year' => 
+      array (
+        0 => '',
+      ),
+      'comment' => 
+      array (
+        0 => '',
+      ),
+      'genre' => 
+      array (
+        0 => 'Other',
+      ),
+    ),
+    'padding_valid' => false,
+    'tag_offset_end' => 78969,
+    'tag_offset_start' => 78841,
+    'encoding' => 'ISO-8859-1',
+  ),
+  'mime_type' => 'audio/mpeg',
+  'mpeg' => 
+  array (
+    'audio' => 
+    array (
+      'raw' => 
+      array (
+        'synch' => 4094,
+        'version' => 3,
+        'layer' => 1,
+        'protection' => 1,
+        'bitrate' => 9,
+        'sample_rate' => 0,
+        'padding' => 0,
+        'private' => 0,
+        'channelmode' => 1,
+        'modeextension' => 2,
+        'copyright' => 0,
+        'original' => 1,
+        'emphasis' => 0,
+      ),
+      'version' => '1',
+      'layer' => 3,
+      'channelmode' => 'joint stereo',
+      'channels' => 2,
+      'sample_rate' => 44100,
+      'protection' => false,
+      'private' => false,
+      'modeextension' => 'MS',
+      'copyright' => false,
+      'original' => true,
+      'emphasis' => 'none',
+      'padding' => false,
+      'bitrate' => 128000,
+      'framelength' => 420,
+      'bitrate_mode' => 'cbr',
+      'VBR_method' => 'Xing',
+      'xing_flags_raw' => 15,
+      'xing_flags' => 
+      array (
+        'frames' => true,
+        'bytes' => true,
+        'toc' => true,
+        'vbr_scale' => true,
+      ),
+      'VBR_frames' => 187,
+      'VBR_bytes' => 78575,
+      'toc' => 
+      array (
+        0 => 0,
+        1 => 2,
+        2 => 5,
+        3 => 8,
+        4 => 10,
+        5 => 13,
+        6 => 16,
+        7 => 19,
+        8 => 20,
+        9 => 23,
+        10 => 26,
+        11 => 28,
+        12 => 31,
+        13 => 34,
+        14 => 36,
+        15 => 39,
+        16 => 41,
+        17 => 43,
+        18 => 46,
+        19 => 49,
+        20 => 52,
+        21 => 54,
+        22 => 57,
+        23 => 60,
+        24 => 61,
+        25 => 64,
+        26 => 67,
+        27 => 69,
+        28 => 72,
+        29 => 75,
+        30 => 78,
+        31 => 79,
+        32 => 82,
+        33 => 84,
+        34 => 87,
+        35 => 90,
+        36 => 93,
+        37 => 95,
+        38 => 98,
+        39 => 99,
+        40 => 102,
+        41 => 105,
+        42 => 108,
+        43 => 110,
+        44 => 113,
+        45 => 116,
+        46 => 119,
+        47 => 120,
+        48 => 123,
+        49 => 125,
+        50 => 128,
+        51 => 131,
+        52 => 134,
+        53 => 136,
+        54 => 138,
+        55 => 141,
+        56 => 143,
+        57 => 146,
+        58 => 149,
+        59 => 151,
+        60 => 154,
+        61 => 157,
+        62 => 158,
+        63 => 161,
+        64 => 164,
+        65 => 167,
+        66 => 169,
+        67 => 172,
+        68 => 175,
+        69 => 177,
+        70 => 179,
+        71 => 182,
+        72 => 184,
+        73 => 187,
+        74 => 190,
+        75 => 193,
+        76 => 195,
+        77 => 197,
+        78 => 199,
+        79 => 202,
+        80 => 205,
+        81 => 208,
+        82 => 210,
+        83 => 213,
+        84 => 216,
+        85 => 217,
+        86 => 220,
+        87 => 223,
+        88 => 225,
+        89 => 228,
+        90 => 231,
+        91 => 234,
+        92 => 236,
+        93 => 238,
+        94 => 240,
+        95 => 243,
+        96 => 246,
+        97 => 249,
+        98 => 251,
+        99 => 254,
+      ),
+      'LAME' => 
+      array (
+        'short_version' => 'LAME3.97 ',
+        'RGAD' => 
+        array (
+          'track' => 
+          array (
+            'raw' => 
+            array (
+              'name' => 1,
+              'originator' => 3,
+              'sign_bit' => 1,
+              'gain_adjust' => 75,
+            ),
+            'name' => 'Track Gain Adjustment',
+            'originator' => 'determined automatically',
+            'gain_db' => -7.5,
+          ),
+        ),
+        'raw' => 
+        array (
+          'vbr_method' => 1,
+          'RGAD_track' => 11851,
+          'RGAD_album' => 0,
+          'abrbitrate_minbitrate' => 128,
+          'noise_shaping' => 2,
+          'stereo_mode' => 3,
+          'not_optimal_quality' => 0,
+          'source_sample_freq' => 1,
+          'mp3_gain' => 0,
+          'surround_info' => 0,
+        ),
+        'vbr_quality' => 57,
+        'tag_revision' => 0,
+        'vbr_method' => 'cbr',
+        'lowpass_frequency' => 17000,
+        'encoding_flags' => 
+        array (
+          'nspsytune' => true,
+          'nssafejoint' => false,
+          'nogap_next' => false,
+          'nogap_prev' => false,
+        ),
+        'ath_type' => 4,
+        'encoder_delay' => 576,
+        'end_padding' => 1738,
+        'noise_shaping' => 2,
+        'stereo_mode' => 'joint stereo',
+        'not_optimal_quality' => false,
+        'source_sample_freq' => '44.1 kHz',
+        'mp3_gain_db' => 0,
+        'mp3_gain_factor' => 1,
+        'surround_info' => 'no surround info',
+        'preset_used_id' => 128,
+        'preset_used' => '--alt-preset cbr 128',
+        'audio_bytes' => 78575,
+        'music_crc' => 53309,
+        'lame_tag_crc' => 27933,
+      ),
+    ),
+  ),
+  'replay_gain' => 
+  array (
+    'track' => 
+    array (
+      'originator' => 'determined automatically',
+      'adjustment' => -7.5,
+      'volume' => 96.5,
+    ),
+    'reference_volume' => 89,
+  ),
+  'playtime_seconds' => 4.9109375,
+  'tags_html' => 
+  array (
+    'id3v1' => 
+    array (
+      'genre' => 
+      array (
+        0 => 'Other',
+      ),
+    ),
+    'id3v2' => 
+    array (
+      'track_number' => 
+      array (
+        0 => '1',
+      ),
+      'title' => 
+      array (
+        0 => 'Dhanushka Title',
+      ),
+      'artist' => 
+      array (
+        0 => 'Dhanushka Artist',
+      ),
+      'album' => 
+      array (
+        0 => 'Dhanushka Album',
+      ),
+      'year' => 
+      array (
+        0 => '2000',
+      ),
+      'genre' => 
+      array (
+        0 => 'Bass',
+      ),
+      'comments' => 
+      array (
+        0 => 'Test Comments',
+      ),
+    ),
+  ),
+  'bitrate' => 128000,
+  'playtime_string' => '0:05',
+)

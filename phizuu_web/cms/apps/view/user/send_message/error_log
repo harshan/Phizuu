@@ -1,0 +1,7 @@
+[01-Mar-2010 06:34:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'message_limit' in 'field list'
+Whole query: SELECT message_limit FROM `user`,`package` WHERE `user`.`id`=14 AND `user`.`package_id` = `package`.`id`' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/PushNotifications.php(106): Dao->query('SELECT message_...')
+#1 /home/phizuu/public_html/cms/apps/view/user/send_message/send_message.php(17): PushNotifications->getRemainingPushMessages('14')
+#2 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25

@@ -1,0 +1,1 @@
+INSERT INTO mailing_list (`name`,`app_id`,`email`,`birth_day`,`sex`,`country`,`postal_code`,`radio_station`,`feedback`,`mobile_no`) VALUES ('fhsjdh','100','ftdhfh','','Male','United States','','','ryftut','')

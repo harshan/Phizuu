@@ -1,0 +1,1022 @@
+[11-Feb-2010 20:37:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:37:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:00] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:08] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:08] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:11] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:24] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:29] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:46] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:50] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:51] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:38:59] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:00] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:08] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:11] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:24] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:29] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[11-Feb-2010 20:39:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'Couldn't find the file: ' in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php:54
+Stack trace:
+#0 /home/phizuu/public_html/phizuu_analytics/scripts/log_file_parser.php(15): LogFileParser->addRecordsToDatabase('0', '10')
+#1 {main}
+  thrown in /home/phizuu/public_html/phizuu_analytics/models/data_extractors/LogFileParser.php on line 54
+[15-Mar-2010 21:15:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 81893' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('86295', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:16:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 85768' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('2038', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:16:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 85950' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('2421', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:17:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 86130' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('2813', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:20:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RS'
+				WHERE `connection_id` = 88358' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('6925', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:20:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 88611' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('7299', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:21:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 89138' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('7871', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:21:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 89384' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('8174', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:22:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 89645' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('8403', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:23:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 90722' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('9611', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:24:22] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 91059' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('9923', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:25:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'IM'
+				WHERE `connection_id` = 91582' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('10836', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:25:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 91960' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('11445', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:26:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 92359' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('12411', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:26:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 92593' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('13007', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:28:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 94070' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('16230', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:28:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 94083' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('16450', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[26-Mar-2010 02:33:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 97229' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('24021', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[28-Mar-2010 00:01:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 98693' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/log_file_parser.php(11): LogFileParser->addRecordsToDatabase('27549', 100)
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[29-Mar-2010 00:00:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 98826' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/log_file_parser.php(11): LogFileParser->addRecordsToDatabase('27843', 100)
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[30-Mar-2010 00:00:24] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 98930' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/log_file_parser.php(11): LogFileParser->addRecordsToDatabase('28045', 100)
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[30-Mar-2010 02:05:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'JE'
+				WHERE `connection_id` = 99286' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('28862', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[30-Mar-2010 02:06:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 100293' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('31178', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[30-Mar-2010 02:07:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 100961' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('32675', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[30-Mar-2010 02:09:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Cannot add or update a child row: a foreign key constraint fails (`phizuu_analytics`.`an_connections`, CONSTRAINT `an_connections_ibfk_3` FOREIGN KEY (`country_code`) REFERENCES `an_countries` (`country_code`))
+Whole query: UPDATE `an_connections` SET 
+					`country_code` = 'RD'
+				WHERE `connection_id` = 101973' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileEntry.php(184): Dao->query('UPDATE `an_conn...')
+#1 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(237): LogFileEntry->addIPLocation()
+#2 /home/phizuu/public_html/cms/apps/model/data_extractors/LogFileParser.php(46): LogFileParser->_addIPLocations(Array)
+#3 /home/phizuu/public_html/cms/apps/scripts/slow_processor_server.php(15): LogFileParser->addRecordsToDatabase('34992', '100')
+#4 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25
+[07-Apr-2010 01:17:34] PHP Fatal error:  Call to undefined method API::getAppName() in /home/phizuu/public_html/cms/apps/scripts/create_affiliate_itunes_urls.php on line 65
+[19-Apr-2010 01:27:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'Invalid query: Unknown column 'Meindl' in 'where clause'
+Whole query: SELECT * FROM user WHERE app_id!=0 AND app_id=Meindl' in /home/phizuu/public_html/cms/apps/database/Dao.php:25
+Stack trace:
+#0 /home/phizuu/public_html/cms/apps/scripts/publish_api.php(49): Dao->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/phizuu/public_html/cms/apps/database/Dao.php on line 25

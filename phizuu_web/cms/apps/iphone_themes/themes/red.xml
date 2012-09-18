@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <name>Red</name>
+    <preview>red.jpg</preview>
+    <icon_sets>
+        <tab_bar>Funky</tab_bar>
+        <middle_tabs>Grey</middle_tabs>
+        <fan_wall>Funky</fan_wall>
+        <general>Default</general>
+        <music>Default</music>
+    </icon_sets>
+    <images>Greenish Nature</images>
+    <colors>Ocean Blue</colors>
+</theme>

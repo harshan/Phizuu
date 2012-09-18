@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> <dict>
+<key>App identifier</key>
+<string>5457</string>
+<key>Title</key>
+<string>test</string>
+<key>Home image count</key>
+<integer>0</integer>
+<key>Modules</key>
+<array>
+<string>Album</string>
+<string>FanWall</string>
+<string>BuyStuffs</string>
+<string>Twitter</string>
+<string>News</string>
+<string>Links</string>
+<string>Biography</string>
+<string>About</string>
+<string>UserAccounts</string>
+</array>
+<key>Mobclix application identifier</key>
+<string>mobclixId</string>
+<key>Version</key>
+<dict>
+<key>Major</key>
+<string>3.0</string>
+<key>Minor</key>
+<string>0</string>
+</dict>
+<key>PhizuuConnect URL</key>
+<string>http://connect.phizuu.com/client</string>
+<key>PushEnabled</key>
+<false/>
+<key>AdsEnabled</key>
+<false/>
+<key>FaceBookAPIKey</key>
+<string>2f2609e2c7b262e41dff261736748fb9</string>
+<key>FaceBookAPISecret</key>
+<string>4d4a7d398663bf166488071d46e71642</string>
+<key>FaceBookPostImageURL</key>
+<string>http://phizuu.com/images/facebook_post_images/5457/5457.png</string>
+<key>App Email</key>
+<string>info@phizuu.com</string>
+<key>Twitter</key>
+<dict>
+<key>Key</key>
+<string>gnVBYVkfzLgWVokJyKxgQ</string>
+<key>Secret</key>
+<string>5KSvcIfvlXjfGJaqBPb9nf5s4thu7r8MKWc7cZOHIIY</string>
+</dict>
+</dict>
+</plist>

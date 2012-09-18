@@ -1,0 +1,1828 @@
+Array
+(
+    [GETID3_VERSION] => 1.7.9-20090308
+    [filesize] => 5261303
+    [avdataoffset] => 2988
+    [avdataend] => 5261175
+    [fileformat] => mp3
+    [audio] => Array
+        (
+            [dataformat] => mp3
+            [channels] => 2
+            [sample_rate] => 44100
+            [bitrate] => 156554.51767
+            [channelmode] => stereo
+            [bitrate_mode] => vbr
+            [codec] => LAME
+            [encoder] => LAME3.98
+            [lossless] => 
+            [encoder_options] => --preset fast portable -b32 --lowpass 16500
+            [compression_ratio] => 0.110937158213
+            [streams] => Array
+                (
+                    [0] => Array
+                        (
+                            [dataformat] => mp3
+                            [channels] => 2
+                            [sample_rate] => 44100
+                            [bitrate] => 156554.51767
+                            [channelmode] => stereo
+                            [bitrate_mode] => vbr
+                            [codec] => LAME
+                            [encoder] => LAME3.98
+                            [lossless] => 
+                            [encoder_options] => --preset fast portable -b32 --lowpass 16500
+                            [compression_ratio] => 0.110937158213
+                        )
+
+                )
+
+        )
+
+    [tags] => Array
+        (
+            [id3v1] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Su
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [comment] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Other
+                        )
+
+                )
+
+            [id3v2] => Array
+                (
+                    [comments] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [conductor] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [content_group_description] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [copyright_message] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [encoded_by] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Filmi
+                        )
+
+                    [remixer] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [internet_radio_station_name] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_album] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [publisher] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [subtitle] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [unsynchronised_lyric] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [url_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_file] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_source] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [commercial_information] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_station] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                        )
+
+                    [release_time] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                )
+
+        )
+
+    [warning] => Array
+        (
+            [0] => Some ID3v1 fields do not use NULL characters for padding
+        )
+
+    [encoding] => ISO-8859-1
+    [filename] => phpipqgzT
+    [filepath] => /Applications/MAMP/tmp/php
+    [filenamepath] => /Applications/MAMP/tmp/php/phpipqgzT
+    [id3v2] => Array
+        (
+            [header] => 1
+            [flags] => Array
+                (
+                    [unsynch] => 
+                    [exthead] => 
+                    [experim] => 
+                )
+
+            [majorversion] => 3
+            [minorversion] => 0
+            [headerlength] => 2988
+            [tag_offset_start] => 0
+            [tag_offset_end] => 2988
+            [encoding] => UTF-8
+            [comments] => Array
+                (
+                    [comments] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [conductor] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [content_group_description] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [copyright_message] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [encoded_by] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Filmi
+                        )
+
+                    [remixer] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [internet_radio_station_name] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_album] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [publisher] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [subtitle] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [unsynchronised_lyric] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [url_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_file] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_source] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [commercial_information] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_station] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                        )
+
+                    [release_time] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                )
+
+            [COMM] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => COMM
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 22
+                            [dataoffset] => 10
+                            [framenamelong] => Comments
+                            [framenameshort] => comments
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                            [language] => eng
+                            [languagename] => English
+                            [description] => 
+                        )
+
+                )
+
+            [TPE3] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TPE3
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 42
+                            [framenamelong] => Conductor/performer refinement
+                            [framenameshort] => conductor
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TIT1] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TIT1
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 70
+                            [framenamelong] => Content group description
+                            [framenameshort] => content_group_description
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TCOP] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TCOP
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 98
+                            [framenamelong] => Copyright message
+                            [framenameshort] => copyright_message
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TENC] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TENC
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 126
+                            [framenamelong] => Encoded by
+                            [framenameshort] => encoded_by
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TCON] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TCON
+                            [frame_flags_raw] => 0
+                            [data] => Filmi
+                            [datalength] => 6
+                            [dataoffset] => 154
+                            [framenamelong] => Content type
+                            [framenameshort] => genre
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TPE4] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TPE4
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 170
+                            [framenamelong] => Interpreted, remixed, or otherwise modified by
+                            [framenameshort] => remixer
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TRSN] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TRSN
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 198
+                            [framenamelong] => Internet radio station name
+                            [framenameshort] => internet_radio_station_name
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TOAL] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TOAL
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 226
+                            [framenamelong] => Original album/movie/show title
+                            [framenameshort] => original_album
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TPUB] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TPUB
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 254
+                            [framenamelong] => Publisher
+                            [framenameshort] => publisher
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TIT3] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TIT3
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 282
+                            [framenamelong] => Subtitle/Description refinement
+                            [framenameshort] => subtitle
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TIT2] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TIT2
+                            [frame_flags_raw] => 0
+                            [data] => Dont Say Alvida - Remix
+                            [datalength] => 24
+                            [dataoffset] => 310
+                            [framenamelong] => Title/songname/content description
+                            [framenameshort] => title
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [USLT] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => USLT
+                            [frame_flags_raw] => 0
+                            [datalength] => 22
+                            [dataoffset] => 344
+                            [framenamelong] => Unsynchronised lyric/text transcription
+                            [framenameshort] => unsynchronised_lyric
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                            [language] => eng
+                            [languagename] => English
+                            [description] => 
+                        )
+
+                )
+
+            [TYER] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TYER
+                            [frame_flags_raw] => 0
+                            [data] => 2009
+                            [datalength] => 5
+                            [dataoffset] => 376
+                            [framenamelong] => Year
+                            [framenameshort] => year
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [WOAR] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => WOAR
+                            [frame_flags_raw] => 0
+                            [datalength] => 17
+                            [dataoffset] => 391
+                            [framenamelong] => Official artist/performer webpage
+                            [framenameshort] => url_artist
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [url] => RadioReloaded.com
+                        )
+
+                )
+
+            [WOAF] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => WOAF
+                            [frame_flags_raw] => 0
+                            [datalength] => 17
+                            [dataoffset] => 418
+                            [framenamelong] => Official audio file webpage
+                            [framenameshort] => url_file
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [url] => RadioReloaded.com
+                        )
+
+                )
+
+            [WOAS] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => WOAS
+                            [frame_flags_raw] => 0
+                            [datalength] => 17
+                            [dataoffset] => 445
+                            [framenamelong] => Official audio source webpage
+                            [framenameshort] => url_source
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [url] => RadioReloaded.com
+                        )
+
+                )
+
+            [WCOM] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => WCOM
+                            [frame_flags_raw] => 0
+                            [datalength] => 17
+                            [dataoffset] => 472
+                            [framenamelong] => Commercial information
+                            [framenameshort] => commercial_information
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [url] => RadioReloaded.com
+                        )
+
+                )
+
+            [WORS] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => WORS
+                            [frame_flags_raw] => 0
+                            [datalength] => 17
+                            [dataoffset] => 499
+                            [framenamelong] => Official Internet radio station homepage
+                            [framenameshort] => url_station
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [url] => RadioReloaded.com
+                        )
+
+                )
+
+            [GEOB] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => GEOB
+                            [frame_flags_raw] => 0
+                            [datalength] => 706
+                            [dataoffset] => 526
+                            [framenamelong] => General encapsulated object
+                            [framenameshort] => general_encapsulated_object
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [objectdata] => RJMD     œ              "              2      •      c   	       '   ,      Statistics        4      /         *   /       CDInfo Source          	       "   '      Track        ?      z     &      ;          %   ;       	Category    RadioReloaded.com    ¬          %   ;      	Keywords    RadioReloaded.com    K      x      -          %   -       	DataSize    ÿÿÿÿ   4          %   4       	MimeType    text/plain    á   
+       #   9      Lyrics    RadioReloaded.com    Q      ~      ­      -         %   -       	DataSize          /         &   /       
+Extension    .txt    4          %   4       	MimeType    text/plain 
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                            [mime] => binary
+                            [filename] => 
+                            [description] => RealJukebox:Metadata
+                        )
+
+                )
+
+            [PRIV] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => PRIV
+                            [frame_flags_raw] => 0
+                            [data] => ÿ  
+                            [datalength] => 14
+                            [dataoffset] => 1242
+                            [framenamelong] => Private frame
+                            [framenameshort] => private_frame
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [ownerid] => PeakValue
+                        )
+
+                    [1] => Array
+                        (
+                            [frame_name] => PRIV
+                            [frame_flags_raw] => 0
+                            [data] => $  
+                            [datalength] => 17
+                            [dataoffset] => 1266
+                            [framenamelong] => Private frame
+                            [framenameshort] => private_frame
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [ownerid] => AverageLevel
+                        )
+
+                )
+
+            [TEXT] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TEXT
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 1293
+                            [framenamelong] => Lyricist/Text writer
+                            [framenameshort] => lyricist
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TOLY] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TOLY
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 1321
+                            [framenamelong] => Original lyricist(s)/text writer(s)
+                            [framenameshort] => original_lyricist
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TOPE] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TOPE
+                            [frame_flags_raw] => 0
+                            [data] => RadioReloaded.com
+                            [datalength] => 18
+                            [dataoffset] => 1349
+                            [framenamelong] => Original artist(s)/performer(s)
+                            [framenameshort] => original_artist
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TPE1] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TPE1
+                            [frame_flags_raw] => 0
+                            [data] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                            [datalength] => 44
+                            [dataoffset] => 1377
+                            [framenamelong] => Lead performer(s)/Soloist(s)
+                            [framenameshort] => artist
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 0
+                            [encoding] => ISO-8859-1
+                        )
+
+                )
+
+            [TGID] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TGID
+                            [frame_flags_raw] => 0
+                            [data] => ÿþR a d i o R e l o a d e d . c o m 
+                            [datalength] => 37
+                            [dataoffset] => 1431
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 1
+                            [encoding] => UTF-16
+                        )
+
+                )
+
+            [TDES] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TDES
+                            [frame_flags_raw] => 0
+                            [data] => ÿþR a d i o R e l o a d e d . c o m 
+                            [datalength] => 37
+                            [dataoffset] => 1478
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 1
+                            [encoding] => UTF-16
+                        )
+
+                )
+
+            [TCAT] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TCAT
+                            [frame_flags_raw] => 0
+                            [data] => ÿþR a d i o R e l o a d e d . c o m 
+                            [datalength] => 37
+                            [dataoffset] => 1525
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 1
+                            [encoding] => UTF-16
+                        )
+
+                )
+
+            [TDRL] => Array
+                (
+                    [0] => Array
+                        (
+                            [frame_name] => TDRL
+                            [frame_flags_raw] => 0
+                            [data] => ÿþR a d i o R e l o a d e d . c o m 
+                            [datalength] => 37
+                            [dataoffset] => 1572
+                            [framenamelong] => Release time
+                            [framenameshort] => release_time
+                            [flags] => Array
+                                (
+                                    [TagAlterPreservation] => 
+                                    [FileAlterPreservation] => 
+                                    [ReadOnly] => 
+                                    [compression] => 
+                                    [Encryption] => 
+                                    [GroupingIdentity] => 
+                                )
+
+                            [encodingid] => 1
+                            [encoding] => UTF-16
+                        )
+
+                )
+
+            [padding] => Array
+                (
+                    [start] => 1619
+                    [length] => 1369
+                    [valid] => 1
+                )
+
+        )
+
+    [id3v1] => Array
+        (
+            [title] => Dont Say Alvida - Remix
+            [artist] => Sonu Nigam, Shreya Ghoshal, Su
+            [album] => 
+            [year] => 2009
+            [comment] => RadioReloaded.com
+            [genre] => Other
+            [comments] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Su
+                        )
+
+                    [album] => Array
+                        (
+                            [0] => 
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [comment] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Other
+                        )
+
+                )
+
+            [padding_valid] => 
+            [tag_offset_end] => 5261303
+            [tag_offset_start] => 5261175
+            [encoding] => ISO-8859-1
+        )
+
+    [mime_type] => audio/mpeg
+    [mpeg] => Array
+        (
+            [audio] => Array
+                (
+                    [raw] => Array
+                        (
+                            [synch] => 4094
+                            [version] => 3
+                            [layer] => 1
+                            [protection] => 1
+                            [bitrate] => 9
+                            [sample_rate] => 0
+                            [padding] => 0
+                            [private] => 0
+                            [channelmode] => 1
+                            [modeextension] => 2
+                            [copyright] => 0
+                            [original] => 0
+                            [emphasis] => 0
+                        )
+
+                    [version] => 1
+                    [layer] => 3
+                    [channelmode] => joint stereo
+                    [channels] => 2
+                    [sample_rate] => 44100
+                    [protection] => 
+                    [private] => 
+                    [modeextension] => MS
+                    [copyright] => 
+                    [original] => 
+                    [emphasis] => none
+                    [padding] => 
+                    [bitrate] => 156554.51767
+                    [framelength] => 511
+                    [bitrate_mode] => vbr
+                    [VBR_method] => Xing
+                    [xing_flags_raw] => 15
+                    [xing_flags] => Array
+                        (
+                            [frames] => 1
+                            [bytes] => 1
+                            [toc] => 1
+                            [vbr_scale] => 1
+                        )
+
+                    [VBR_frames] => 10286
+                    [VBR_bytes] => 5258187
+                    [toc] => Array
+                        (
+                            [0] => 0
+                            [1] => 3
+                            [2] => 5
+                            [3] => 8
+                            [4] => 10
+                            [5] => 14
+                            [6] => 17
+                            [7] => 19
+                            [8] => 22
+                            [9] => 24
+                            [10] => 27
+                            [11] => 30
+                            [12] => 32
+                            [13] => 34
+                            [14] => 37
+                            [15] => 40
+                            [16] => 42
+                            [17] => 45
+                            [18] => 47
+                            [19] => 50
+                            [20] => 53
+                            [21] => 55
+                            [22] => 58
+                            [23] => 60
+                            [24] => 64
+                            [25] => 66
+                            [26] => 68
+                            [27] => 71
+                            [28] => 73
+                            [29] => 77
+                            [30] => 79
+                            [31] => 82
+                            [32] => 84
+                            [33] => 87
+                            [34] => 90
+                            [35] => 93
+                            [36] => 95
+                            [37] => 97
+                            [38] => 100
+                            [39] => 103
+                            [40] => 106
+                            [41] => 108
+                            [42] => 110
+                            [43] => 113
+                            [44] => 116
+                            [45] => 118
+                            [46] => 120
+                            [47] => 123
+                            [48] => 126
+                            [49] => 128
+                            [50] => 131
+                            [51] => 133
+                            [52] => 135
+                            [53] => 138
+                            [54] => 141
+                            [55] => 143
+                            [56] => 146
+                            [57] => 148
+                            [58] => 151
+                            [59] => 154
+                            [60] => 156
+                            [61] => 159
+                            [62] => 162
+                            [63] => 164
+                            [64] => 167
+                            [65] => 169
+                            [66] => 172
+                            [67] => 175
+                            [68] => 177
+                            [69] => 180
+                            [70] => 182
+                            [71] => 184
+                            [72] => 187
+                            [73] => 189
+                            [74] => 192
+                            [75] => 194
+                            [76] => 196
+                            [77] => 199
+                            [78] => 202
+                            [79] => 204
+                            [80] => 206
+                            [81] => 209
+                            [82] => 212
+                            [83] => 214
+                            [84] => 216
+                            [85] => 219
+                            [86] => 222
+                            [87] => 224
+                            [88] => 227
+                            [89] => 229
+                            [90] => 231
+                            [91] => 235
+                            [92] => 237
+                            [93] => 239
+                            [94] => 242
+                            [95] => 244
+                            [96] => 247
+                            [97] => 250
+                            [98] => 252
+                            [99] => 254
+                        )
+
+                    [LAME] => Array
+                        (
+                            [short_version] => LAME3.98 
+                            [raw] => Array
+                                (
+                                    [vbr_method] => 4
+                                    [RGAD_track] => 0
+                                    [RGAD_album] => 0
+                                    [abrbitrate_minbitrate] => 32
+                                    [noise_shaping] => 1
+                                    [stereo_mode] => 3
+                                    [not_optimal_quality] => 0
+                                    [source_sample_freq] => 1
+                                    [mp3_gain] => 0
+                                    [surround_info] => 0
+                                )
+
+                            [vbr_quality] => 50
+                            [tag_revision] => 0
+                            [vbr_method] => vbr-new / vbr-mtrh
+                            [lowpass_frequency] => 16500
+                            [encoding_flags] => Array
+                                (
+                                    [nspsytune] => 1
+                                    [nssafejoint] => 
+                                    [nogap_next] => 
+                                    [nogap_prev] => 
+                                )
+
+                            [ath_type] => 4
+                            [bitrate_min] => 32
+                            [encoder_delay] => 576
+                            [end_padding] => 1872
+                            [noise_shaping] => 1
+                            [stereo_mode] => joint stereo
+                            [not_optimal_quality] => 
+                            [source_sample_freq] => 44.1 kHz
+                            [mp3_gain_db] => 0
+                            [mp3_gain_factor] => 1
+                            [surround_info] => no surround info
+                            [preset_used_id] => 450
+                            [preset_used] => --preset fast portable
+                            [audio_bytes] => 5258187
+                            [music_crc] => 32807
+                            [lame_tag_crc] => 2289
+                        )
+
+                    [VBR_bitrate] => 156554.51767
+                )
+
+        )
+
+    [playtime_seconds] => 268.695510204
+    [tags_html] => Array
+        (
+            [id3v1] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Su
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [comment] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Other
+                        )
+
+                )
+
+            [id3v2] => Array
+                (
+                    [comments] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [conductor] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [content_group_description] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [copyright_message] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [encoded_by] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [genre] => Array
+                        (
+                            [0] => Filmi
+                        )
+
+                    [remixer] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [internet_radio_station_name] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_album] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [publisher] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [subtitle] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [title] => Array
+                        (
+                            [0] => Dont Say Alvida - Remix
+                        )
+
+                    [unsynchronised_lyric] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [year] => Array
+                        (
+                            [0] => 2009
+                        )
+
+                    [url_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_file] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_source] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [commercial_information] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [url_station] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_lyricist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [original_artist] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                    [artist] => Array
+                        (
+                            [0] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                        )
+
+                    [release_time] => Array
+                        (
+                            [0] => RadioReloaded.com
+                        )
+
+                )
+
+        )
+
+    [bitrate] => 156554.51767
+    [playtime_string] => 4:29
+    [comments] => Array
+        (
+            [title] => Array
+                (
+                    [0] => Dont Say Alvida - Remix
+                )
+
+            [artist] => Array
+                (
+                    [0] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                )
+
+            [year] => Array
+                (
+                    [0] => 2009
+                )
+
+            [comment] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [genre] => Array
+                (
+                    [0] => Other
+                    [1] => Filmi
+                )
+
+            [comments] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [conductor] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [content_group_description] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [copyright_message] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [encoded_by] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [remixer] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [internet_radio_station_name] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_album] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [publisher] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [subtitle] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [unsynchronised_lyric] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_artist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_file] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_source] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [commercial_information] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_station] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [lyricist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_lyricist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_artist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [release_time] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+        )
+
+    [comments_html] => Array
+        (
+            [title] => Array
+                (
+                    [0] => Dont Say Alvida - Remix
+                )
+
+            [artist] => Array
+                (
+                    [0] => Sonu Nigam, Shreya Ghoshal, Suzanne D'Mello
+                )
+
+            [year] => Array
+                (
+                    [0] => 2009
+                )
+
+            [comment] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [genre] => Array
+                (
+                    [0] => Other
+                    [1] => Filmi
+                )
+
+            [comments] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [conductor] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [content_group_description] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [copyright_message] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [encoded_by] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [remixer] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [internet_radio_station_name] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_album] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [publisher] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [subtitle] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [unsynchronised_lyric] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_artist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_file] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_source] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [commercial_information] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [url_station] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [lyricist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_lyricist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [original_artist] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+            [release_time] => Array
+                (
+                    [0] => RadioReloaded.com
+                )
+
+        )
+
+)

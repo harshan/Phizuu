@@ -1,0 +1,52 @@
+Fri Jun 24 11:55:39 UTC 2011 --- Successfully finished parsing 'test.log'
+Fri Jun 24 11:55:39 UTC 2011 --- Next file 'test.logx'
+Fri Jun 24 11:55:39 UTC 2011 --- Next file count reset
+Fri Jun 24 12:06:15 UTC 2011 --- Successfully finished parsing 'test.log'
+Fri Jun 24 12:06:15 UTC 2011 --- Next file 'test.logx'
+Fri Jun 24 12:06:15 UTC 2011 --- Next file count reset
+Fri Jun 24 12:06:20 UTC 2011 --- Successfully finished parsing 'test.logx'
+Fri Jun 24 12:06:20 UTC 2011 --- Next file 'test.logxx'
+Fri Jun 24 12:06:20 UTC 2011 --- Next file count reset
+Fri Jun 24 12:06:29 UTC 2011 --- Successfully finished parsing 'test.log'
+Fri Jun 24 12:06:29 UTC 2011 --- Next file 'test.logx'
+Fri Jun 24 12:06:29 UTC 2011 --- Next file count reset
+Fri Jun 24 12:06:38 UTC 2011 --- Successfully finished parsing 'test.logx'
+Fri Jun 24 12:06:38 UTC 2011 --- Next file 'test.logxx'
+Fri Jun 24 12:06:38 UTC 2011 --- Next file count reset
+Fri Jun 24 12:06:57 UTC 2011 --- Successfully finished parsing 'test.logxx'
+Fri Jun 24 12:06:57 UTC 2011 --- Next file 'test.logxxx'
+Fri Jun 24 12:06:57 UTC 2011 --- Next file count reset
+Fri Jun 24 12:09:00 UTC 2011 --- Successfully finished parsing 'test.log'
+Fri Jun 24 12:09:00 UTC 2011 --- Next file 'test.logx'
+Fri Jun 24 12:09:00 UTC 2011 --- Next file count reset
+Fri Jun 24 12:09:03 UTC 2011 --- Successfully finished parsing 'test.logx'
+Fri Jun 24 12:09:03 UTC 2011 --- Next file 'test.logxx'
+Fri Jun 24 12:09:03 UTC 2011 --- Next file count reset
+Fri Jun 24 12:09:05 UTC 2011 --- Successfully finished parsing 'test.logxx'
+Fri Jun 24 12:09:05 UTC 2011 --- Next file 'test.logxxx'
+Fri Jun 24 12:09:05 UTC 2011 --- Next file count reset
+Fri Jun 24 12:11:00 UTC 2011 --- File doesn't exists '..\test_log_files\test.logxxx'
+Fri Jun 24 12:12:31 UTC 2011 --- Successfully finished parsing 'test.log'
+Fri Jun 24 12:12:31 UTC 2011 --- Next file 'test.logx'
+Fri Jun 24 12:12:31 UTC 2011 --- Next file count reset
+Fri Jun 24 12:12:33 UTC 2011 --- Successfully finished parsing 'test.logx'
+Fri Jun 24 12:12:33 UTC 2011 --- Next file 'test.logxx'
+Fri Jun 24 12:12:33 UTC 2011 --- Next file count reset
+Fri Jun 24 12:12:35 UTC 2011 --- Successfully finished parsing 'test.logxx'
+Fri Jun 24 12:12:35 UTC 2011 --- Next file 'test.logxxx'
+Fri Jun 24 12:12:35 UTC 2011 --- Next file count reset
+Sat Jun 25 22:33:45 UTC 2011 --- Successfully finished parsing 'part.0000'
+Sat Jun 25 22:33:45 UTC 2011 --- Next file 'part1'
+Sat Jun 25 22:33:45 UTC 2011 --- Next file count reset
+Sat Jun 25 22:36:14 UTC 2011 --- Successfully finished parsing 'part.0001'
+Sat Jun 25 22:36:14 UTC 2011 --- Next file 'part.0002'
+Sat Jun 25 22:36:14 UTC 2011 --- Next file count reset
+Sat Jun 25 22:36:23 UTC 2011 --- Successfully finished parsing 'part.0002'
+Sat Jun 25 22:36:23 UTC 2011 --- Next file 'part.0003'
+Sat Jun 25 22:36:23 UTC 2011 --- Next file count reset
+Sat Jun 25 22:37:59 UTC 2011 --- Successfully finished parsing 'part.0951'
+Sat Jun 25 22:37:59 UTC 2011 --- Next file 'part.0952'
+Sat Jun 25 22:37:59 UTC 2011 --- Next file count reset
+Sat Jun 25 22:38:06 UTC 2011 --- Successfully finished parsing 'part.0952'
+Sat Jun 25 22:38:06 UTC 2011 --- Next file 'part.0953'
+Sat Jun 25 22:38:06 UTC 2011 --- Next file count reset

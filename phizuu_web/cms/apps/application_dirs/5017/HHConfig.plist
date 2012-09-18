@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> <dict>
+<key>App identifier</key>
+<string>5017</string>
+<key>Title</key>
+<string>Test</string>
+<key>Home image count</key>
+<integer>1;</integer>
+<key>Modules</key>
+<array>
+<string>Home</string>
+<string>Photos</string>
+<string>Videos</string>
+<string>Twitter</string>
+</array>
+<key>Mobclix application identifier</key>
+<string>mobclixId</string>
+<key>Background color</key>
+<string>blackColor</string>
+<key>Foreground color</key>
+<string>whiteColor</string>
+<key>NavBar tint color</key>
+<string>blackColor</string>
+<key>PhizuuConnect URL</key>
+<string>connect.phizuu.com</string>
+</dict>
+</plist>

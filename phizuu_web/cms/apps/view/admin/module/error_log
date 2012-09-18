@@ -1,0 +1,5 @@
+[03-Mar-2010 00:36:28] PHP Fatal error:  Class 'Module' not found in /home/phizuu/public_html/cms/apps/view/admin/module/add_module.php on line 8
+[03-Mar-2010 00:36:37] PHP Fatal error:  Class 'Module' not found in /home/phizuu/public_html/cms/apps/view/admin/module/add_module.php on line 8
+[03-Mar-2010 00:36:54] PHP Fatal error:  Class 'Module' not found in /home/phizuu/public_html/cms/apps/view/admin/module/add_module.php on line 8
+[03-Mar-2010 18:42:29] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3
+[13-Mar-2010 21:42:01] PHP Fatal error:  Cannot redeclare class MySQLResult in /home/phizuu/public_html/cms/apps/controller/db_connect.php on line 3

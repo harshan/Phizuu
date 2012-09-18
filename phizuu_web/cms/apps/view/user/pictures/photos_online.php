@@ -1,0 +1,510 @@
+<?php
+$menu_item="photos";
+?>
+<?php
+include("../../../config/config.php");
+include("../../../controller/session_controller.php");
+require_once '../../../config/database.php';
+include('../../../controller/db_connect.php');
+include('../../../controller/helper.php');
+require_once('../../../controller/pic_controller.php');
+include('../../../model/pic_model.php');
+include('../../../config/error_config.php');
+require_once('../../../controller/flickr_controller.php');
+include('../../../controller/limit_files_controller.php');
+include('../../../model/limit_files_model.php');
+$limitFiles= new LimitFiles();
+$limit_count=$limitFiles->getLimit($_SESSION['user_id'],'picture');
+
+$bpic= new Picture();
+$bank_pic = $bpic->listBankPics($_SESSION['user_id']);
+$count=1;
+$ipic= new Picture();
+$iphone_pic = $ipic->listIphonePics($_SESSION['user_id']);
+$icount=1;
+
+
+$_SESSION['redirect_page_name']='pictures/upload_pics_swf.php';
+$_SESSION['request_page_name']='pictures/photos.php';
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Phizuu Application</title>
+
+<style type="text/css">
+body,html {
+    color:#333;
+    font-family:Calibri;
+    font-size:11px;
+}
+.panel {float:left;width:500px;margin:0px;}
+
+ul {
+    list-style-type:none;
+    /*border:1px solid #999;*/
+    background:#fff;
+    padding:0px;
+    min-height:150px;
+    width:500px;
+}
+
+li {
+
+   display:inline-block;
+	padding:0px;
+    position:relative;
+
+  	
+}
+
+
+.dds_selected {
+    background:#fff;/* #ffc-yellow*/
+	display:inline-block;
+}
+.dds_ghost {
+    opacity:0.5;
+	display:inline-block;
+}
+.dds_move {
+	background:#ccc;/* #cfc-green*/
+	/*display:inline-block;*/
+	width:75px;
+	height:75px;
+	display:inline;
+
+}
+.dds_hover {
+    background:#ccc;/* #fc9-orange*/
+    border:0px dashed #c96;
+	display:inline-block;
+
+}
+
+.holder {
+    border:0px dashed #333;
+    background:#fff;
+	display:inline;
+}
+
+</style>
+
+    <script type="text/javascript">
+        var GB_ROOT_DIR = "../../../js/greybox/";
+    </script>
+	<script type="text/javascript" src="../../../js/mootools.js"></script>
+    <script type="text/javascript" src="../../../js/AJS.js"></script>
+    <script type="text/javascript" src="../../../js/AJS_fx.js"></script>
+    <script type="text/javascript" src="../../../js/gb_scripts.js"></script>
+    <link href="../../../css/gb_styles.css" rel="stylesheet" type="text/css" media="all" />
+    
+<link href="../../../css/styles.css" rel="stylesheet" type="text/css" />
+   
+    <!--multi drag-->
+    <script type="text/javascript" src="../../../js/Select%20and%20drag_files/jquery.js"></script>
+<script type="text/javascript" src="../../../js/Select%20and%20drag_files/jquery-ui.js"></script>
+<script type="text/javascript">
+/**
+ *   Multi-Select And Drag
+ *  
+ *   Not elegant solution to this problem, but the problem, despite being easily 
+ *   desribed is not simple. This code is more a proof of concept, but should be
+ *   extendable by anyone with the time / inclination, there I grant permission 
+ *   for it to be re-used in accodance with the MIT license:
+ *
+ *   Copyright (c) 2009 Chris Walker (http://thechriswalker.net/)
+ *
+ *   Permission is hereby granted, free of charge, to any person obtaining a copy
+ *   of this software and associated documentation files (the "Software"), to deal
+ *   in the Software without restriction, including without limitation the rights
+ *   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ *   copies of the Software, and to permit persons to whom the Software is
+ *   furnished to do so, subject to the following conditions:
+ *
+ *   The above copyright notice and this permission notice shall be included in
+ *   all copies or substantial portions of the Software.
+ *
+ *   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ *   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ *   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ *   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ *   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ *   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ *   THE SOFTWARE.
+ */
+(function($){
+    $.fn.drag_drop_selectable = function( options ){
+        $.fn.captureKeys();
+        var $_this = this;
+        var settings = $.extend({},$.fn.drag_drop_selectable.defaults,options||{});
+        return $(this).each(function(i){
+            var $list = $(this);
+            var list_id = $.fn.drag_drop_selectable.unique++;
+            $.fn.drag_drop_selectable.stack[list_id]={"selected":[ ],"all":[ ]};//we hold all as well as selected so we can invert and stuff...
+            $list.attr('dds',list_id);
+			$.fn.drag_drop_selectable.settings[list_id] = settings;
+            $list.find('li')
+            //make all list elements selectable with click and ctrl+click.
+            .each(function(){
+                var $item = $(this);
+                //add item to list!
+                var item_id = $.fn.drag_drop_selectable.unique++;
+				
+                $item.attr('dds',item_id);
+				$.fn.drag_drop_selectable.stack[list_id].all.push(item_id);
+                $(this).bind('click.dds_select',function(e){
+                    if($.fn.isPressed(CTRL_KEY) || ($.fn.drag_drop_selectable.stack[$.fn.drag_drop_selectable.getListId( $(this).attr('dds') )].selected.length == 1 && $(this).hasClass('dds_selected'))){
+                        //ctrl pressed add to selection
+                        $.fn.drag_drop_selectable.toggle(item_id);
+                    }else{
+                        //ctrl not pressed make new selection
+                        $.fn.drag_drop_selectable.replace(item_id);
+                    }
+                }).bind('dds.select',function(){
+                    $(this).addClass('dds_selected').addClass( $.fn.drag_drop_selectable.settings[$.fn.drag_drop_selectable.getListId($(this).attr('dds'))].selectClass );
+                    
+                }).bind('dds.deselect',function(){
+                    $(this).removeClass('dds_selected').removeClass( $.fn.drag_drop_selectable.settings[$.fn.drag_drop_selectable.getListId($(this).attr('dds'))].selectClass );;
+                }).css({cursor:'pointer'});
+            })
+            //OK so they are selectable. now I need to make them draggable, in such a way that they pick up their friends when dragged. hmmm how do I do that?
+            .draggable({
+                 helper:function(){
+                    $clicked = $(this);
+                    if( ! $clicked.hasClass('dds_selected') ){
+					
+                        //trigger the click function.
+                        $clicked.trigger('click.dds_select');
+                    }
+                    var list = $.fn.drag_drop_selectable.getListId($clicked.attr('dds'));
+                    var $helper = $('<div dds_list="'+list+'"><div style="margin-top:-'+$.fn.drag_drop_selectable.getMarginForDragging( $clicked )+'px;" /></div>').append( $.fn.drag_drop_selectable.getSelectedForDragging( $clicked.attr('dds') ) );
+                        $.fn.drag_drop_selectable.getListItems( list ).filter('.dds_selected').addClass($.fn.drag_drop_selectable.settings[list].ghostClass);
+                    return $helper;
+                 },
+                 distance:5, //give bit of leeway to allow selecting with click.
+                 revert:'invalid',
+                 cursor:'move',
+                 stop:function(e, ui){
+                    var list = $.fn.drag_drop_selectable.getListId($clicked.attr('dds'));
+                    $.fn.drag_drop_selectable.getListItems( list ).filter('.dds_selected').removeClass($.fn.drag_drop_selectable.settings[list].ghostClass);
+                 }
+            });
+            $list.droppable({
+                drop:function(e,ui){
+                    var oldlist = parseInt(ui.helper.attr('dds_list'));
+                    ui.helper.find('li.dds_selected').each(function(){
+                        var iid = parseInt( $(this).attr('dds_drag') );
+						alert("iid "+iid);
+                        $.fn.drag_drop_selectable.moveBetweenLists( iid, oldlist, list_id );
+                    });
+                    //now call callbacks!
+                    if( $.fn.drag_drop_selectable.settings[oldlist] && typeof($.fn.drag_drop_selectable.settings[oldlist].onListChange) == 'function'){
+                        setTimeout(function(){ $.fn.drag_drop_selectable.settings[oldlist].onListChange( $('ul[dds='+oldlist+']') ); },50);
+                    }
+                    if( $.fn.drag_drop_selectable.settings[list_id] && typeof($.fn.drag_drop_selectable.settings[list_id].onListChange) == 'function'){
+                        setTimeout(function(){ $.fn.drag_drop_selectable.settings[list_id].onListChange( $('ul[dds='+list_id+']') ); },50);
+                    }
+
+                    
+                },
+                accept:function(d){
+                    if( $.fn.drag_drop_selectable.getListId( d.attr('dds') ) == $(this).attr('dds')){
+                        return false;
+                    }
+
+                    return true;
+                },
+                hoverClass:$.fn.drag_drop_selectable.settings[list_id].hoverClass,
+                tolerance:'pointer'
+            });
+        });  
+    };
+    $.fn.drag_drop_selectable.moveBetweenLists=function(item_id, old_list_id, new_list_id){
+
+        //first deselect.
+        $.fn.drag_drop_selectable.deselect(parseInt(item_id));
+        //now remove from stack
+        $.fn.drag_drop_selectable.stack[old_list_id].all.splice( $.inArray( parseInt(item_id),$.fn.drag_drop_selectable.stack[old_list_id].all ),1);
+        //now add to new stack.
+		if($.fn.drag_drop_selectable.stack[new_list_id].all.length<<?php echo $limit_count ->photo_limit;?>){
+		$.fn.drag_drop_selectable.stack[new_list_id].all.push( parseInt(item_id) );
+		
+		
+        //now move DOM Object.
+        $('ul[dds='+old_list_id+']').find('li[dds='+item_id+']').removeClass($.fn.drag_drop_selectable.settings[old_list_id].ghostClass).appendTo( $('ul[dds='+new_list_id+']') );
+    };}
+    $.fn.drag_drop_selectable.getSelectedForDragging=function(item_id){
+        var list = $.fn.drag_drop_selectable.getListId( item_id );
+        var $others = $.fn.drag_drop_selectable.getListItems( list ).clone().each(function(){
+            $(this).not('.dds_selected').css({visibility:'hidden'});
+            $(this).filter('.dds_selected').addClass( $.fn.drag_drop_selectable.settings[list].moveClass ).css({opacity:$.fn.drag_drop_selectable.settings[list].moveOpacity});;
+            $(this).attr('dds_drag',$(this).attr('dds'))
+            $(this).attr('dds','');
+        });
+        return $others;
+    };
+    $.fn.drag_drop_selectable.getMarginForDragging=function($item){
+        //find this items offset and the first items offset.
+        var this_offset = $item.position().top;
+        var first_offset = $.fn.drag_drop_selectable.getListItems( $.fn.drag_drop_selectable.getListId( $item.attr('dds') ) ).eq(0).position().top;
+        return this_offset-first_offset;
+    }
+    
+    $.fn.drag_drop_selectable.toggle=function(id){
+        if(!$.fn.drag_drop_selectable.isSelected(id)){
+            $.fn.drag_drop_selectable.select(id);
+        }else{
+            $.fn.drag_drop_selectable.deselect(id);
+        }
+    };
+    $.fn.drag_drop_selectable.select=function(id){
+        if(!$.fn.drag_drop_selectable.isSelected(id)){
+            var list = $.fn.drag_drop_selectable.getListId(id);
+            $.fn.drag_drop_selectable.stack[list].selected.push(id);
+            $('[dds='+id+']').trigger('dds.select');
+        }
+    };
+    $.fn.drag_drop_selectable.deselect=function(id){
+        if($.fn.drag_drop_selectable.isSelected(id)){
+            var list = $.fn.drag_drop_selectable.getListId(id);
+            $.fn.drag_drop_selectable.stack[list].selected.splice($.inArray(id,$.fn.drag_drop_selectable.stack[list].selected),1);
+            $('[dds='+id+']').trigger('dds.deselect');
+        }
+    };
+    $.fn.drag_drop_selectable.isSelected=function(id){
+        return $('li[dds='+id+']').hasClass('dds_selected');
+    };
+    $.fn.drag_drop_selectable.replace=function(id){
+        //find the list this is in!
+        var list = $.fn.drag_drop_selectable.getListId(id);
+        $.fn.drag_drop_selectable.selectNone(list);
+        $.fn.drag_drop_selectable.stack[list].selected.push(id);
+        $('[dds='+id+']').trigger('dds.select');
+    };
+    $.fn.drag_drop_selectable.selectNone=function(list_id){
+        $.fn.drag_drop_selectable.getListItems(list_id).each(function(){
+            $.fn.drag_drop_selectable.deselect( $(this).attr('dds') );
+        });return false;
+    };
+    $.fn.drag_drop_selectable.selectAll=function(list_id){
+        $.fn.drag_drop_selectable.getListItems(list_id).each(function(){
+            $.fn.drag_drop_selectable.select( $(this).attr('dds') );
+        });return false;
+    };
+    $.fn.drag_drop_selectable.selectInvert=function(list_id){
+        $.fn.drag_drop_selectable.getListItems(list_id).each(function(){
+            $.fn.drag_drop_selectable.toggle( $(this).attr('dds') );
+        });return false;
+    };
+    $.fn.drag_drop_selectable.getListItems=function(list_id){
+        return $('ul[dds='+list_id+'] li');
+    };
+    $.fn.drag_drop_selectable.getListId=function(item_id){
+        return parseInt($('li[dds='+item_id+']').parent('ul').eq(0).attr('dds'));
+    };
+    $.fn.drag_drop_selectable.serializeArray=function( list_id ){
+        var out = [];
+        $.fn.drag_drop_selectable.getListItems(list_id).each(function(){
+            out.push($(this).attr('id'));
+        });
+        return out;
+    };
+    $.fn.drag_drop_selectable.serialize=function( list_id ){
+            return $.fn.drag_drop_selectable.serializeArray( list_id ).join(", ");
+    };
+    
+    $.fn.drag_drop_selectable.unique=0;
+    $.fn.drag_drop_selectable.stack=[];
+    $.fn.drag_drop_selectable.defaults={
+        moveOpacity: 0.8, //opacity of moving items
+        ghostClass: 'dds_ghost', //class for "left-behind" item.
+        hoverClass: 'dds_hover', //class for acceptable drop targets on hover
+        moveClass:  'dds_move', //class to apply to items whilst moving them.
+        selectedClass: 'dds_selected', //this default will be aplied any way, but the overridden one too.
+        onListChange: function(list){ console.log( list.attr('id') );} //called once when the list changes
+    }
+    $.fn.drag_drop_selectable.settings=[];
+    
+    
+    $.extend({
+        dds:{
+                selectAll:function(id){ return $.fn.drag_drop_selectable.selectAll($('#'+id).attr('dds')); },
+                selectNone:function(id){ return $.fn.drag_drop_selectable.selectNone($('#'+id).attr('dds')); },
+                selectInvert:function(id){ return $.fn.drag_drop_selectable.selectInvert($('#'+id).attr('dds')); },
+				moveBetweenLists:function(id,oldlist,newlist){ return $.fn.drag_drop_selectable.moveBetweenLists($('#'+id).attr('dds'),$('#'+oldlist).attr('dds'),$('#'+newlist).attr('dds')); },
+                serialize:function(id){ return $.fn.drag_drop_selectable.serialize($('#'+id).attr('dds')); }
+				
+            }
+    });
+    
+    var CTRL_KEY = 17;
+    var ALT_KEY = 18;
+    var SHIFT_KEY = 16;
+    var META_KEY = 92;
+    $.fn.captureKeys=function(){
+        if($.fn.captureKeys.capturing){ return; }
+        $(document).keydown(function(e){
+            if(e.keyCode == CTRL_KEY ){ $.fn.captureKeys.stack.CTRL_KEY  = true  }
+            if(e.keyCode == SHIFT_KEY){ $.fn.captureKeys.stack.SHIFT_KEY = true  }
+            if(e.keyCode == ALT_KEY  ){ $.fn.captureKeys.stack.ALT_KEY   = true  }
+            if(e.keyCode == META_KEY ){ $.fn.captureKeys.stack.META_KEY  = true  }
+        }).keyup(function(e){
+            if(e.keyCode == CTRL_KEY ){ $.fn.captureKeys.stack.CTRL_KEY  = false }
+            if(e.keyCode == SHIFT_KEY){ $.fn.captureKeys.stack.SHIFT_KEY = false }
+            if(e.keyCode == ALT_KEY  ){ $.fn.captureKeys.stack.ALT_KEY   = false }
+            if(e.keyCode == META_KEY ){ $.fn.captureKeys.stack.META_KEY  = false }
+        });
+    };
+    $.fn.captureKeys.stack={ CTRL_KEY:false, SHIFT_KEY:false, ALT_KEY:false, META_KEY:false }
+    $.fn.captureKeys.capturing=false;
+    $.fn.isPressed=function(key){
+        switch(key){
+            case  CTRL_KEY: return $.fn.captureKeys.stack.CTRL_KEY;
+            case   ALT_KEY: return $.fn.captureKeys.stack.ALT_KEY;
+            case SHIFT_KEY: return $.fn.captureKeys.stack.SHIFT_KEY;
+            case  META_KEY: return $.fn.captureKeys.stack.META_KEY;
+            default: return false;
+        }
+    }
+})(jQuery);
+
+var my_list1,my_list2;
+$(function(){
+
+    mychange = function ( $list ){
+
+        $( '#'+$list.attr('id')+'_serialised').html( $.dds.serialize( $list.attr('id')) );
+		my_list1=$.dds.serialize( 'list_1' );
+		my_list2=$.dds.serialize( 'list_2' );
+		showHint(my_list1,my_list2);
+    }
+
+    $('ul').drag_drop_selectable({
+        onListChange:mychange
+		
+    });
+	
+
+	
+		my_list1=$.dds.serialize( 'list_1' );
+		my_list2=$.dds.serialize( 'list_2' );
+		
+var mynew_change=showHint(my_list1,my_list2);	
+
+
+    $( '#list_1_serialised').html( $.dds.serialize( 'list_1' ) );
+    $( '#list_2_serialised').html( $.dds.serialize( 'list_2' ) );
+
+});
+	var xmlhttp=null;
+
+function make_httpRequest(){
+		if (window.XMLHttpRequest)
+		  {
+		  // code for IE7+, Firefox, Chrome, Opera, Safari
+		  xmlhttp=new XMLHttpRequest();
+		  }
+		else if (window.ActiveXObject)
+		  {
+		  // code for IE6, IE5
+		  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		  }
+		else
+		  {
+		  alert("Your browser does not support XMLHTTP!");
+		  return;
+		  }
+}
+
+function showHint(list1,list2)
+{
+
+make_httpRequest();  
+var url="../../../controller/pic_add_iphone_controller.php?list1=" + list1+"&list2="+ list2+"&status=update_list";
+//alert(url);
+url=url+"&sid="+Math.random();
+xmlhttp.open("GET",url,false);
+xmlhttp.send(null);
+ document.getElementById("div_error").innerHTML=xmlhttp.responseText;
+
+
+}
+	
+
+function test(id){
+
+$.dds.moveBetweenLists( id, "list_1", "list_2" );
+
+		my_list1=$.dds.serialize( 'list_1' );
+		my_list2=$.dds.serialize( 'list_2' );
+
+		
+		showHint(my_list1,my_list2);
+}
+</script><script charset="utf-8" id="injection_graph_func" src="../../../js/Select%20and%20drag_files/injection_graph_func.js"></script>
+<script type="text/JavaScript">
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+</script>
+</head>
+	
+
+<body>
+<div id="mainWideDiv">
+  <div id="middleDiv">
+  	<?php include("../common/header.php");?>
+	<?php include("../common/navigator.php");?>
+	<div id="bodyPhotos">
+    <div id="div_error"></div>
+	  <div id="bodyLeftPhotos">
+		<?php  include("pic_bank_list.php");?>
+	  </div>
+	  <div id="bodyMusicRgt">
+	  	<?php  include("pic_iphone_list.php");?>
+	  </div>
+	</div>
+	<div class="tahoma_11_blue" id="footer">&copy; 2012 phizuu. All Rights Reserved.</div>
+  </div>	
+</div>
+<script type="text/javascript">
+GB_myShow = function(caption, url, /* optional */ height, width, callback_fn) {
+alert("test");
+    var options = {
+        caption: caption,
+        height: height || 500,
+        width: width || 500,
+        fullscreen: false,
+        show_loading: false,
+        callback_fn: callback_fn
+    }
+    var win = new GB_Window(options);
+    return win.show(url);
+}
+</script>
+</body>
+</html>

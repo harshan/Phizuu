@@ -1,0 +1,172 @@
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.sheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #ff0000;
+	text-decoration: none;
+}
+.NormalTextBox {
+	color: #555;
+	font-family: tahoma;
+	font-weight: normal;
+	font-size: 11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+}
+.navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.links {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+
+.SubHead    {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:  11px;
+	font-weight:    normal;
+	text-decoration: none;
+	color: #000000;
+}
+.NormalRedSmall {
+	font-family: Tahoma, Arial, Helvetica;
+	font-size: 11px;
+	color: #CC0000;
+}
+.DotLine {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #999999;
+}
+.StandardButton
+{
+	padding-right: 5px;
+	padding-left: 5px;
+	font-weight: normal;
+	font-size: 11px;
+	background: #dddddd;
+	color: #000000;
+	font-family: Verdana, sans-serif;
+}
+.Normal,.NormalDisabled
+{
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.defaulttext {
+	color: #6F7984;
+	font-family: tahoma;
+	font-weight: normal;
+	font-size: 11px;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.grid_list1 {
+	padding-right: 5px;
+	padding-left: 5px;
+	font-weight: normal;
+	font-size: 11px;
+	color: #000000;
+	font-family: Verdana, sans-serif;
+	background-color: #F4F4F4;
+}
+.grid_list2 {
+
+
+	padding-right: 5px;
+	padding-left: 5px;
+	font-weight: normal;
+	font-size: 11px;
+	color: #000000;
+	font-family: Verdana, sans-serif;
+}
+.error-td {
+	border: 1px solid #6a6a6a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #ffffff;
+	background-color: #6a6a6a;
+}
+
+#dProxy
+{
+	width:47px;
+	heigth:50px;
+	z-index:inherit;
+}
+
+
+#delBox
+{
+	width:81px;
+	height:132px;
+
+}
+.h1 {
+    font-family: Tahoma, Arial, Helvetica;
+    font-size:  13px;
+    font-weight:    bold;
+    color: #666666;
+	text-decoration:none;
+}
+
+.progressBar{
+	font-size: 0;
+	width: 0%;
+	height: 3px;
+	background-color: blue;
+	margin-top: 2px;
+}
+
+.fileInfo {
+	margin: 3px;
+	padding: 5px;
+	border: solid 1px #E6E6E6;
+	background-color: #F8F8F8;	
+}
+.error {
+	border: solid 1px #D20202;
+	background-color: #FFDDDD;
+}
+
+.current {
+	border: solid 1px #D1EAD0;
+	background-color: #DDFFDD;
+}
+
+.uploaded {
+	border: solid 1px #BCDAED;
+	background-color: #DDEBFF;
+}

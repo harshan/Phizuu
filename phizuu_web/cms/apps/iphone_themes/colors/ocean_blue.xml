@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<color>
+    <name>Ocean Blue</name>
+    <popup_background_color>DC0617</popup_background_color>
+    <navbar_tint_color>DD0516</navbar_tint_color>
+    <foreground_color>FFFFCC</foreground_color>
+    <background_color>FF5F49</background_color>
+    <table_cell_odd_color>FF5F49</table_cell_odd_color>
+    <table_cell_even_color>FFA5A5</table_cell_even_color>
+    <table_seperator_color>8D0000</table_seperator_color>
+    <table_background_color>FF8F35</table_background_color>
+    <table_text_color>FFFFCC</table_text_color>
+    <banner_background_color>D33139</banner_background_color>
+    <banner_text_color>FFFFCC</banner_text_color>
+    <tab_text_color>FFFFCC</tab_text_color>
+    <mini_player_foreground_color>F2421E</mini_player_foreground_color>
+</color>

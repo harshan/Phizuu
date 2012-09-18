@@ -1,0 +1,634 @@
+body {
+    font-family: Tahoma;
+    font-size: 12px;
+    color: #07738a;
+}
+
+.themeSection {
+    width: 973px;
+    float: left;
+    margin-top: 10px;
+}
+
+.configurationSection {
+    width: 313px;
+    float: left;
+}
+
+.previewSection {
+    width: 660px;
+    float: left;
+}
+
+.configurationSectionRow {
+    width: 313px;
+    float: left;
+    height: 30px;
+}
+
+.configurationSectionColorsRow {
+    width: 313px;
+    float: left;
+    height: 34px;
+}
+
+.colorCaption {
+    width: 200px;
+    float: left;
+}
+
+.imageCaption {
+    width: 200px;
+    float: left;
+}
+
+.presetCaption {
+    width: 166px;
+    float: left;
+}
+
+.presetSelector {
+    float: left;
+    width: 100px;
+    height: 25px;
+}
+
+.presetSelector div{
+    background-image: url(../images/themes/select_set.png) ;
+    padding: 4px 0 5px 10px;
+    width: 125px;
+    border: 0;
+    color: #07738A;
+    cursor: pointer;
+    float: left;
+    height: 16px;
+    font-size: 12px;
+}
+
+.savingStatusHeader {
+    width: 973px;
+    float: left;
+    text-align: right;
+    margin: 10px 0 0 0;
+
+}
+
+.savingStatusHeader a {
+    text-decoration: none;
+    color: #07738A;
+}
+
+.savingStatusHeader a:hover {
+    color: #2992BF;
+}
+
+.iphoneScreenContainer {
+    width: 320px;
+    height: 480px;
+    float: left;
+    padding-left: 8px;
+}
+
+.iphoneScreen {
+    width: 320px;
+    background-color: rgb(255,165,0);
+    height: 480px;
+    position: relative;
+    border: 2px solid black;
+}
+
+.iphoneBatteryBar {
+    width: 320px;
+    background-image: url('../images/themes/tob_bar.png');
+    height: 20px;
+    float: left;
+}
+
+.iphoneNavigationBar {
+    width: 320px;
+    height: 44px;
+    float: left;
+    position: relative;
+}
+
+.iphoneBody {
+    width: 320px;
+    height: 367px;
+    float: left;
+    overflow: hidden;
+}
+
+.iphoneBodyEvents {
+    height: 372px;
+    float: left;
+    overflow: hidden;
+    width: 320px;
+}
+
+.iphoneBodyEventsTop {
+    height: 121px;
+    float: left;
+    overflow: hidden;
+    width: 320px;
+}
+
+.iphoneBodyEventsTopImage {
+    height: 121px;
+    float: left;
+    overflow: hidden;
+    width: 104px;
+}
+
+.iphoneBodyEventsTopText {
+    width: 216px;
+    overflow: hidden;
+    height: 121px;
+    float: left;
+    font-family: Arial;
+}
+
+.iphoneEventTabBar {
+    height: 52px;
+    float: left;
+    overflow: hidden;
+    width: 320px;
+}
+
+.iphoneEventTab {
+    height: 52px;
+    float: left;
+    overflow: hidden;
+    width: 80px;
+    position: relative;
+}
+
+.iphoneEventImage {
+    height: 52px;
+    float: left;
+    overflow: hidden;
+    width: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 4;
+}
+
+.iphoneEventTabBg {
+    top: 12px;
+    left: 3px;
+    width: 76px;
+    height: 40px;
+    position: absolute;
+    z-index: 3;
+}
+
+.iphoneEventTabIcon {
+    top: 5px;
+    left: 23px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 5;
+}
+
+.iphoneEventTabText {
+    top:35px;
+    left: 0px;
+    font-family: Arial;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    width: 80px;
+    height: 15px;
+    color: white;
+    position: absolute;
+    z-index: 5;
+}
+
+.iphoneEventsTabBody {
+    height: 199px;
+    float: left;
+    overflow: hidden;
+    width: 320px;
+    font-size: 12px;
+    font-family: Arial;
+    text-align: justify;
+}
+
+.iphoneToolBarImage {
+    float: left;
+    width: 320px;
+    height: 44px;
+}
+
+.iphoneToolBarContainer {
+    float: left;
+    overflow: hidden;
+    width: 320px;
+    height: 44px;
+    position: relative;
+}
+
+.iphoneToolBarShareIcon {
+    
+}
+
+.iphoneTabBar {
+    width: 320px;
+    height: 49px;
+    float: left;
+    position: relative;
+}
+
+.iphoneGridMenu {
+    float: left;
+    width: 320px;
+    height: 80px;
+    margin-top: -80px;
+}
+
+.iphontTabBarCover {
+    width: 320px;
+    height: 49px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.iphontTabBarTabContainer {
+    width: 320px;
+    height: 49px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+.iphoneTab {
+    width: 64px;
+    height: 49px;
+    float: left;
+}
+
+.iphoneTabBarIcon {
+    margin-left: 17px;
+    margin-top: 4px;
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+
+.iphoneTabBarText {
+    margin-top: 2px;
+    font-family: Arial;
+    font-size: 9px;
+    text-align: center;
+    width: 64px;
+    height: 13px;
+    color: white;
+    font-weight: bold;
+}
+
+.iphoneAboutPane {
+    font-family: Arial;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 16px;
+}
+
+.iphoneTabBarImage {
+    width: 320px;
+    height: 49px;
+}
+
+.iphoneNavigationBarImage {
+    width: 320px;
+    height: 44px;
+}
+
+.iphoneNavigationBarTitle {
+    width: 320px;
+    height: 44px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.iphoneTwitterPopupContainer {
+    width: 320px;
+    height: 70px;
+    position: absolute;
+    top: 361px;
+    left: 0px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.iphoneTwitterPopup {
+    width: 320px;
+    height: 70px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    background-color: red;
+}
+
+.iphoneTwitterPopup {
+    width: 320px;
+    height: 70px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    background-color: red;
+}
+
+.iphoneTableItem {
+    width: 320px;
+    height: 42px;
+    float: left;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+
+
+.iphoneTableImageChevron {
+    width: 15px;
+    float: left;
+    padding-top: 8px;
+}
+
+.iphoneTableText {
+    width: 290px;
+    float: left;
+    padding-left: 5px;
+    padding-top: 7px;
+}
+
+.iphoneTableBuyText {
+    width: 263px;
+}
+
+.iphoneTableTextChevron {
+    width: 15px;
+    float: left;
+    padding-top: 4px;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Courier New",Courier,monospace;
+}
+
+.iphoneNavigationButton {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    top:6px;
+    left: 5px;
+}
+
+.iphoneToolbarButton {
+    top:8px;
+}
+
+.iphoneToolbarShareButton {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    top:10px;
+    left: 287px;
+}
+
+
+.iphoneNavRoundedRec {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+}
+
+.iphoneNavButImage {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+}
+
+/* Music Player */
+.iphoneMiniPlayerHider {
+    position: absolute;
+    top: 64px;
+    left: 0px;
+    height: 40px;
+    width: 320px;
+    overflow: hidden;
+}
+
+.iphoneMiniPlayerContainer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 40px;
+    width: 360px;
+    overflow: hidden;
+}
+
+.iphoneMiniPlayerRewind {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    height: 40px;
+}
+
+.iphoneMiniPlayerPlay {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    height: 40px;
+}
+
+.iphoneMiniPlayerForward {
+    position: absolute;
+    top: 0px;
+    left: 90px;
+    height: 40px;
+}
+
+.iphoneMiniPlayerDetails {
+    position: absolute;
+    top: 0px;
+    left: 130px;
+    width: 190px;
+    height: 40px;
+    z-index: 10
+}
+
+.iphoneMiniPlayerDetailsBg {
+    position: absolute;
+    top: 23px;
+    left: 140px;
+    width: 120px;
+    height: 5px;
+    z-index: 9;
+}
+
+.iphoneMiniPlayerSongTitle {
+    position: absolute;
+    top: 3px;
+    left: 141px;
+    width: 145px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 12px;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.iphoneMiniPlayerSongDuration {
+    position: absolute;
+    top: 18px;
+    left: 266px;
+    width: 50px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 12px;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.iphoneMiniPlayerCloseButton {
+    position: absolute;
+    top: 0px;
+    left: 298px;
+    width: 21px;
+    height: 21px;
+}
+
+.colorSelector {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background: url(color_picker/images/select.png);
+}
+
+.imageSelector {
+    float: left;
+    width: 100px;
+    height: 30px;
+    background: url(color_picker/images/select_image.png);
+    position: relative;
+}
+
+.imageSelectorCover {
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 30px;
+    background: url(color_picker/images/select_image.png);
+    position: absolute;
+    z-index: 5;
+}
+
+.imageSelectorImage {
+    top: 2px;
+    left: 2px;
+    width: 96px;
+    height: 26px;
+    background: url(color_picker/images/select_image.png);
+    position: absolute;
+    z-index: 4;
+}
+
+.setSelector li{
+    height: 100px;
+    width: 67px;
+    background: #CCCCCC;
+}
+
+.setSelector {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+/* Music Player End */
+
+.selectedItem {
+    border: 1px #2992BF solid;
+}
+
+.unselectedItem {
+    border: 1px white solid;
+}
+
+.colorPreviewDiv {
+    float: left;
+    height: 10px;
+    width: 67px;
+}
+
+#saveThemeSection {
+    float: left;
+    width: 967px;
+    height: auto;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+#saveThemeSection a {
+    color: #2992BF;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#saveThemeSection a:hover {
+    text-decoration: underline;
+}
+
+.spiffy{display:block}
+.spiffy *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+}
+.spiffy1{
+  margin-left:3px;
+  margin-right:3px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #870000;
+  border-right:1px solid #870000;
+  background:#9f0000}
+.spiffy2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #6f0000;
+  border-right:1px solid #6f0000;
+  background:#a30000}
+.spiffy3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #a30000;
+  border-right:1px solid #a30000;}
+.spiffy4{
+  border-left:1px solid #870000;
+  border-right:1px solid #870000}
+.spiffy5{
+  border-left:1px solid #9f0000;
+  border-right:1px solid #9f0000}
+.spiffyfg{
+  background:#b20000;
+  height: 20px;
+}

@@ -1,0 +1,56 @@
+#list_1 {
+    float: left;
+    width: 464px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    min-height: 512px;
+}
+
+#list_1 li {
+    cursor: pointer;
+    height: 110px;
+    padding-left: 0;
+    width: 464px;
+    background-color: #F3F3F3;
+    margin-bottom: 2px;
+    float: left;
+}
+
+#list_1 li .image {
+    cursor: pointer;
+    height: 100px;
+    margin: 4px;
+    width: 87px;
+    background-color: #F3F3F3;
+    border: 1px solid #000;
+    float: left;
+}
+
+#list_1 li .module {
+    height: 100px;
+    padding: 4px 4px 4px 0px;
+    width: 100px;
+    background-color: #F3F3F3;
+    margin-bottom: 2px;
+    float: left;
+}
+
+#list_1 li .link {
+    height: 100px;
+    padding: 4px 4px 4px 0px;
+    width: 180px;
+    background-color: #F3F3F3;
+    margin-bottom: 2px;
+    float: left;
+}
+
+#list_1 li .hover {
+    height: 100px;
+    padding: 4px 4px 4px 0px;
+    width: 72px;
+    background-color: #F3F3F3;
+    margin-bottom: 2px;
+    float: left;
+}

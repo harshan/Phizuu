@@ -1,0 +1,5 @@
+RewriteEngine On
+Options -Indexes
+ErrorDocument 403 http://phizuu.com/cms/apps/error.php
+ErrorDocument 404 http://phizuu.com/cms/apps/error.php
+

@@ -1,0 +1,1282 @@
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	/*background-image: url(../images/footerPxl.png);
+	background-repeat: repeat-x;
+	background-position:bottom;*/
+}#mainWideDiv {
+
+	width: 100%;
+	background-image: url(../images/wizard_top_bg.jpg);
+	background-repeat: repeat-x;
+	overflow: hidden;
+}
+#mainWideDivSign {
+	width: 100%;
+        margin: auto;
+        min-height: 100%;
+	background-image: url(../images/signOutBckGrnd.jpg);
+	background-repeat: repeat-x;
+	overflow: hidden;
+}
+
+#middleDiv {
+	margin: auto;
+	width: 948px;
+}
+#header {
+	margin: auto;
+	height: 62px;
+	width: 100%;
+        clear: both;
+     
+}
+#logoContainer {
+	float: left;
+	height: 62px;
+	width: 808px;
+        
+}
+#loginBox {
+	float: left;
+	height: 41px;
+	width: 140px;
+	padding-top: 21px;
+}
+.tahoma_12_white2 {
+	font-family:Tahoma;
+	font-size:12px;
+	color:#A5A1A0;
+	line-height:17px;
+	text-decoration:none;
+}
+.tahoma_12_white {
+	font-family:Tahoma;
+	font-size:12px;
+	color:#FFFFFF;
+}
+.tahoma_12_blue {
+	font-family:Tahoma;
+	font-size:12px;
+	color:#07738a;
+}
+.tahoma_11_blue {
+	font-family:Tahoma;
+	font-size:11px;
+	color:#07738a;
+}
+.tahoma_14_white {
+	font-family:Tahoma;
+	font-size:14px;
+	color:#FFFFFF;
+}
+.tahoma_14_dark_blue {
+	font-family:Tahoma;
+	font-size:14px;
+	color:#043f53;
+}
+.tahoma_18_white {
+	font-family:Tahoma;
+	font-size:18px;
+	color:#ffffff;
+}
+#navigator {
+	float: left;
+	height: 61px;
+	width: 948px;
+}
+.iconBox {
+	float: left;
+	height: 61px;
+	width: 79px;
+}
+
+#body {
+	float: left;
+	width: 973px;
+	padding-top: 12px;
+}
+#bodyNews {
+	float: left;
+	width: 945px;
+	padding-top: 12px;
+}
+#bodyPhotos {
+	float: left;
+	width: 948px;
+	padding-top: 47px;
+}
+#bodyLeft {
+	float: left;
+	width: 464px;
+	margin-right: 20px;
+}#bodyLeftWizard {
+	float: left;
+	width: 550px;
+	margin-right: 20px;
+}
+#bodyLeftSettings {
+	float: left;
+	width: 487px;
+	margin-right: 101px;
+}
+#bodyLeftPhotoEditing {
+	float: left;
+	width: 471px;
+	margin-right: 25px;
+	padding-bottom: 88px;
+}
+#bodyLeftPhotos {
+	float: left;
+	width: 450px;
+	margin-right: 48px;
+}
+#bodyRgt {
+	float: left;
+	width: 464px;
+}
+#bodyRgtSettings {
+	float: left;
+	width: 360px;
+}
+#bodyRgtPhotoEditing {
+	float: left;
+	width: 450px;
+}
+#bodyMusicRgt {
+	float: left;
+	width: 450px;
+	margin-bottom: 50px;
+}
+#titleBox {
+	float: left;
+	height: 28px;
+	width: 464px;
+	margin-bottom: 2px;
+	background-color: #043f53;
+}
+#titleBoxSettings {
+	float: left;
+	height: 28px;
+	width: 487px;
+	margin-bottom: 2px;
+	background-color: #043f53;
+}
+#titleBoxSettingsRght {
+	float: left;
+	height: 28px;
+	width: 360px;
+	margin-bottom: 2px;
+	background-color: #043f53;
+}
+#titlePhoteEdit {
+	float: left;
+	height: 28px;
+	width: 471px;
+	background-color: #043f53;
+}
+#titlePhoteEditLeft {
+	float: left;
+	height: 28px;
+	width: 450px;
+	background-color: #043f53;
+}
+#titleBoxNewsBox {
+	float: left;
+	height: 28px;
+	width: 945px;
+	margin-bottom: 2px;
+	background-color: #043f53;
+}
+#photoHolderBox {
+	float: left;
+	width: 450px;
+}
+#photoHolderBoxPhotoEditing {
+	float: left;
+	width: 450px;
+	padding-top: 17px;
+	padding-bottom: 7px;
+}
+#photoHolderSettings {
+	float: left;
+	width: 360px;
+	padding-top: 17px;
+	padding-bottom: 7px;
+}
+#title {
+	float: left;
+	height: 21px;
+	width: 142px;
+	padding-top: 7px;
+	padding-left: 14px;
+}
+#settingsUserName {
+	float: left;
+	height: 53px;
+	width: 65px;
+	padding-top: 27px;
+	padding-left: 16px;
+}
+#titleSettings {
+	float: left;
+	height: 22px;
+	width: 177px;
+	padding-top: 6px;
+	padding-left: 16px;
+}
+#titleNews {
+	float: left;
+	height: 21px;
+	width: 264px;
+	padding-top: 7px;
+	padding-left: 14px;
+}
+#titleTours {
+	float: left;
+	height: 21px;
+	width: 221px;
+	padding-top: 7px;
+	padding-left: 14px;
+}
+#titleLinks {
+	float: left;
+	height: 21px;
+	width: 250px;
+	padding-top: 7px;
+	padding-left: 14px;
+}
+#titleMusic{
+	float: left;
+	height: 42px;
+	width: 142px;
+	padding-left: 14px;
+	padding-top: 25px;
+}
+#titleNewsName{
+	float: left;
+	height: 42px;
+	width: 264px;
+	padding-left: 14px;
+	padding-top: 25px;
+}
+#titleToursName{
+	float: left;
+	height: 42px;
+	width: 221px;
+	padding-left: 14px;
+	padding-top: 25px;
+}
+#titleLinkName{
+	float: left;
+	height: 21px;
+	width: 248px;
+	padding-top: 6px;
+	padding-left: 16px;
+}
+#titleLft {
+	float: left;
+	height: 21px;
+	width: 161px;
+	padding-top: 7px;
+	padding-left: 60px;
+}
+#titleLftMusic {
+	float: left;
+	height: 21px;
+	width: 201px;
+	padding-top: 7px;
+	padding-left: 20px;
+}
+#titleLftMusicText {
+	float: left;
+	height: 42px;
+	width: 201px;
+	padding-top: 25px;
+	padding-left: 20px;
+}
+#duration {
+	float: left;
+	height: 21px;
+	width: 84px;
+	padding-top: 7px;
+	padding-left: 19px;
+}
+#dateNews {
+	float: left;
+	height: 21px;
+	width: 144px;
+	padding-top: 7px;
+	padding-left: 30px;
+}
+#dateTours {
+	float: left;
+	height: 21px;
+	width: 151px;
+	padding-top: 7px;
+	padding-left: 30px;
+}
+#locationTours {
+	float: left;
+	height: 21px;
+	width: 171px;
+	padding-top: 7px;
+}
+#urlLinks {
+	float: left;
+	height: 21px;
+	width: 144px;
+	padding-top: 7px;
+}
+#durationLft {
+	float: left;
+	height: 21px;
+	width: 83px;
+	padding-top: 7px;
+}
+#durationLft2 {
+	float: left;
+	height: 21px;
+	width: 79px;
+	padding-top: 7px;
+	padding-left:4px;
+}
+#durationLft2Music {
+	float: left;
+	height: 42px;
+	width: 79px;
+	padding-top: 25px;
+	padding-left:4px;
+}
+#duration2 {
+	float: left;
+	height: 21px;
+	width: 81px;
+	padding-top: 7px;
+	padding-left: 22px;
+}
+#settingsUserField {
+	float: left;
+	height: 59px;
+	width: 236px;
+	padding-top: 21px;
+}
+#removeSettings {
+	float: left;
+	height: 25px;
+	width: 105px;
+	padding-top: 3px;
+}
+#durationMusic {
+	float: left;
+	height: 42px;
+	width: 81px;
+	padding-top: 25px;
+	padding-left: 22px;
+}
+#dateNewsText {
+	float: left;
+	height: 42px;
+	width: 163px;
+	padding-top: 25px;
+	padding-left: 11px;
+}
+#dateToursText {
+	float: left;
+	height: 42px;
+	width: 177px;
+	padding-top: 25px;
+	padding-left: 4px;
+}
+#locationToursText {
+	float: left;
+	height: 42px;
+	width: 171px;
+	padding-top: 25px;
+}
+#linkText {
+	float: left;
+	height: 21px;
+	width: 654px;
+	padding-top: 6px;
+	padding-right: 27px;
+}
+#note {
+	float: left;
+	height: 21px;
+	width: 126px;
+	padding-top: 7px;
+	text-align: center;
+}
+#descriptionNews {
+	float: left;
+	height: 21px;
+	width: 488px;
+	padding-top: 7px;
+	padding-left: 5px;
+}
+#descriptionTours {
+	float: left;
+	height: 21px;
+	width: 358px;
+	padding-top: 7px;
+}
+#noteLft {
+	float: left;
+	height: 21px;
+	width: 160px;
+	padding-top: 7px;
+}
+#note2 {
+	float: left;
+	height: 21px;
+	width: 126px;
+	padding-top: 7px;
+}
+#settingsSave {
+	float: left;
+	height: 59px;
+	width: 170px;
+	padding-top: 21px;
+}
+#setDefault {
+	float: left;
+	height: 25px;
+	width: 189px;
+	padding-top: 3px;
+}
+#noteMusicThumb {
+	float: left;
+	width: 91px;
+	padding-top: 7px;
+	padding-left: 35px;
+	padding-bottom: 10px;
+}
+#newsDescriptionText {
+	float: left;
+	width: 449px;
+	padding-top: 9px;
+	padding-bottom: 11px;
+	padding-right: 44px;
+}
+#toursDescriptionText {
+	float: left;
+	width: 324px;
+	padding-top: 9px;
+	padding-bottom: 11px;
+	padding-right: 34px;
+}
+#noteMusicThumbRght {
+	float: left;
+	width: 71px;
+	padding-top: 7px;
+	padding-left: 4px;
+	padding-bottom: 10px;
+}
+#iconBox {
+	float: left;
+	height: 28px;
+	width: 79px;
+}
+#iconBoxMusic {
+	float: left;
+	height: 52px;
+	width: 79px;
+	padding-top: 15px;
+}
+#iconBoxMusicRgt {
+	float: left;
+	height: 52px;
+	width: 65px;
+	padding-top: 15px;
+	padding-left: 20px;
+}
+#textBar {
+	float: left;
+	height: 28px;
+	width: 464px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}#textBarWizard {
+	float: left;
+	height: 28px;
+	width: 550px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}
+#textSettings {
+	float: left;
+	width: 487px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}
+#textSettings2 {
+	float: left;
+	width: 487px;
+	margin-bottom: 1px;
+}
+#textBarMusic {
+	float: left;
+	width: 464px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}
+#textBarMusicAdd {
+	float: left;
+	width: 464px;
+	margin-bottom: 1px;
+	padding-top: 11px;
+}
+
+#formHolderPhotoEditing {
+	float: left;
+	width: 396px;
+	margin-bottom: 1px;
+	padding-top: 14px;
+	padding-left: 75px;
+}
+#textBarNews {
+	float: left;
+	width: 945px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}
+#icon {
+	float: left;
+	height: 28px;
+	width: 24px;
+}
+#buttonContainer {
+	float: left;
+	width: 948px;
+	padding-top: 14px;
+}
+#buttonContainerSign {
+	float: left;
+	width: 700px;
+	padding-top: 70px;
+	padding-left: 248px;
+	padding-bottom: 230px;
+}
+#buttonContainerMusic {
+	float: left;
+	width: 948px;
+	padding-top: 14px;
+	padding-bottom: 140px;
+}
+#addMusicBttn {
+	float: left;
+	height: 25px;
+	width: 183px;
+}
+#addMusicBttn2 {
+	float: left;
+	width: 390px;
+}
+#addMusicBttn3Rgt {
+	float: left;
+	height: 200px;
+	width: 555px;
+}
+#footer {
+	float: left;
+	height: 42px;
+	width: 196px;
+	padding-top: 28px;
+	padding-left: 752px;
+}
+.thmbImg {
+	float: left;
+	height: 44px;
+	width: 50px;
+	border: 3px solid #043f53;
+}
+.photoBox {
+	float: left;
+	width: 83px;
+	margin-right: 7px;
+	padding-bottom: 6px;
+}
+.photoBoxEdit {
+	float: left;
+	width: 83px;
+	margin-right: 7px;
+}
+.photo a {
+	float: left;
+	height: 75px;
+	width: 75px;
+	border: 4px solid #043f53;
+}
+
+.photoNone {
+	float: left;
+	height: 75px;
+	width: 75px;
+	border: 4px solid #043f53;
+}
+.photo a:hover{
+	float: left;
+	height: 75px;
+	width: 75px;
+	border: 4px solid #45cdff;
+}
+
+
+.photoLower {
+	float: left;
+	height: 38px;
+	width: 83px;
+}
+#altNewsRss {
+	float: left;
+	height: 33px;
+	width: 182px;
+	padding-top: 6px;
+}
+#rssTextField {
+	float: left;
+	height: 37px;
+	width: 278px;
+	padding-top: 2px;
+}
+#saveButton {
+	float: left;
+	height: 39px;
+	width: 83px;
+	padding-left: 12px;
+}
+.textFeildBoarder {
+	border: 1px solid #c0c0c0;
+	padding-left: 3px;
+}
+#forumTextBar {
+	float: left;
+	height: 21px;
+	width: 396px;
+	padding-top: 8px;
+}
+#forumTextFeild {
+	float: left;
+	height: 23px;
+	width: 396px;
+}
+#forumTextFeildMulti {
+	float: left;
+	height: 100px;
+	width: 396px;
+}
+#wholeImageHolder {
+	float: left;
+	width: 450px;
+}
+#wholeImageHolderSettings {
+	float: left;
+	width: 360px;
+}
+#saveButton2 {
+	float: left;
+	height: 52px;
+	width: 91px;
+	padding-left: 182px;
+}
+#saveButtonSettings {
+	float: left;
+	height: 52px;
+	width: 88px;
+	padding-left: 272px;
+}
+#deleteButton {
+	float: left;
+	height: 52px;
+	width: 91px;
+}
+#cancelButton {
+	float: left;
+	height: 52px;
+	width: 86px;
+}
+#addTourButton {
+	float: left;
+	height: 51px;
+	width: 390px;
+}
+#addTourButtonLinks {
+	float: left;
+	height: 51px;
+	width: 390px;
+	padding-bottom: 200px;
+}
+#formRow {
+	float: left;
+	height: 35px;
+	width: 390px;
+}
+#formRowButtons {
+	float: left;
+	height: 45px;
+	width: 390px;
+}
+#formRowMulti {
+	float: left;
+	height: 108px;
+	width: 390px;
+}
+#formName {
+	float: left;
+	height: 30px;
+	width: 64px;
+	padding-top: 5px;
+	padding-left: 3px;
+}
+#formSinFeild {
+	float: left;
+	height: 35px;
+	width: 323px;
+}
+#formMultiFeild {
+	float: left;
+	height: 108px;
+	width: 323px;
+}
+#SignInBox {
+	float: left;
+	height: 220px;
+	width: 393px;
+}
+#userLoginTitleRow {
+	float: left;
+	height: 48px;
+	width: 393px;
+}
+#loginTtitleCorner {
+	float: left;
+	height: 48px;
+	width: 17px;
+}
+#userLoginMidBar {
+	background-image: url(../images/usLoBlPxl.png);
+	background-repeat: repeat-x;
+	float: left;
+	height: 31px;
+	width: 338px;
+	padding-top: 17px;
+	padding-left: 21px;
+	overflow: hidden;
+}
+#userLogginMidBox {
+	float: left;
+	height: 136px;
+	width: 331px;
+	padding-top: 36px;
+	padding-left: 28px;
+	background-image: url(../images/ashpxl.png);
+	background-repeat: repeat-x;
+}
+#feildRowLoggin {
+	float: left;
+	height: 35px;
+	width: 331px;
+}
+#nameLoggin {
+	float: left;
+	height: 30px;
+	width: 64px;
+	padding-top: 5px;
+}
+#logginTextFeild {
+	float: left;
+	height: 35px;
+	width: 267px;
+}
+#logginBttn {
+	float: left;
+	height: 35px;
+	width: 120px;
+	padding-top: 14px;
+	padding-left: 211px;
+}
+#loginDownImg {
+	float: left;
+	height: 17px;
+	width: 393px;
+}
+#ashCorner {
+	float: left;
+	height: 172px;
+	width: 17px;
+}
+/*....................................................19th of jan 2010 new style begins here.............................. */
+
+div#middleDiv2 {
+margin: auto;
+min-height:670px;
+width: 948px;
+}div#vidAddBut {
+float: left;
+height: 25px;
+margin-bottom:11px;
+margin-top:2px;
+width: 83px;
+}div#photoBoxVideo {
+float: left;
+width: 83px;
+height: 120px;
+margin-right: 7px;
+}div#photoLower2 {
+float: left;
+height: 38px;
+width: 83px;
+}div#addAll {
+float: left;
+height: 25px;
+margin-left:346px;
+width: 104px;
+}div#videoYoutubeLeft {
+float: left;
+width: 450px;
+margin-top:25px;
+margin-bottom:25px;
+}div#videoYoutubeText {
+float: left;
+width: 345px;
+margin-left:15px;
+margin-top:25px;
+margin-bottom:25px;
+}div#lightBlueHeader {
+float: left;
+width: 464px;
+height:25px;
+margin-bottom:5px;
+}div#lightBlueHeaderWizard {
+float: left;
+width: 550px;
+height:25px;
+margin-bottom:5px;
+}div#lightBlueHeader2 {
+float: left;
+width: 945px;
+height:25px;
+margin-bottom:10px;
+}div#lightBlueHeader3 {
+float: left;
+width: 400px;
+height:25px;
+margin-bottom:5px;
+}div#lightBlueHeaderSide {
+float: left;
+width: 5px;
+height:25px;
+}div#lightBlueHeaderMiddle {
+float: left;
+width: 439px;
+padding-left:15px;
+padding-top:3px;
+height:22px;
+background-color:#08a6e0;
+}div#lightBlueHeaderMiddleWizard {
+float: left;
+width: 525px;
+padding-left:15px;
+padding-top:3px;
+height:22px;
+background-color:#08a6e0;
+}div#lightBlueHeaderMiddle2 {
+float: left;
+width: 920px;
+padding-left:15px;
+padding-top:3px;
+height:22px;
+background-color:#08a6e0;
+}div#lightBlueHeaderMiddle3 {
+float: left;
+width: 375px;
+padding-left:15px;
+padding-top:3px;
+height:22px;
+background-color:#08a6e0;
+}div#noteNew {
+float: left;
+height: 21px;
+width: 126px;
+padding-top: 7px;
+}div#indexBodyLeft {
+float: left;
+width: 483px;
+}div#indexBodyRight {
+float: left;
+width: 464px;
+}div#queueBulkUpload {
+float: left;
+height:30px;
+width: 464px;
+margin-bottom:7px;
+margin-top:7px;
+}div#queueBulkUploadName {
+float: left;
+height:15px;
+width: 464px;
+}div#queueBulkUploadbar {
+float: left;
+height:9px;
+/*margin-bottom:3px;
+margin-top:3px;*/
+width: 464px;
+background-color:#ececec;
+}div#ashBlock {
+float: left;
+width: 464px;
+height:94px;
+margin-bottom:5px;
+}div#ashBlockSide {
+float: left;
+width: 5px;
+height:94px;
+}div#ashBlockMiddle {
+float: left;
+width: 439px;
+padding-left:15px;
+padding-top:35px;
+height:59px;
+background-color:#ededed;
+}div#ashBlockMiddleTextArea {
+float: left;
+width: 335px;
+padding-top:5px;
+height:20px;
+}div#ashBlockMiddleBtn {
+float: left;
+width: 89px;
+margin-right:8px;
+height:25px;
+}div#toursDescriptionText2 {
+float: left;
+width: 490px;
+padding-top: 9px;
+padding-bottom: 11px;
+padding-right: 34px;
+}div#formName2 {
+float: left;
+height: 30px;
+width: 94px;
+padding-top: 5px;
+padding-left: 3px;
+}div#formSinFeild2 {
+float: left;
+height: 35px;
+width: 293px;
+}div#umsId{
+float: left;
+height: 21px;
+width: 49px;
+padding-top: 7px;
+padding-left: 14px;
+}div#umsName{
+float: left;
+height: 21px;
+width: 155px;
+padding-top: 7px;
+}div#umsEmail{
+float: left;
+height: 21px;
+width: 140px;
+padding-top: 7px;
+}div#umsAppId{
+float: left;
+height: 21px;
+width: 110px;
+padding-top: 7px;
+}div#umsLimit{
+float: left;
+height: 21px;
+width: 95px;
+padding-top: 7px;
+}div#umsAction{
+float: left;
+height: 21px;
+width: 75px;
+padding-top: 7px;
+}div#umsIdTxt{
+float: left;
+height: 37px;
+width: 49px;
+padding-left: 14px;
+padding-top: 20px;
+}div#umsNameTxt{
+float: left;
+height: 37px;
+width: 155px;
+padding-top: 20px;
+}div#umsEmailTxt{
+float: left;
+height: 37px;
+width: 140px;
+padding-top: 20px;
+}div#umsAppIdTxt{
+float: left;
+height: 37px;
+width: 110px;
+padding-top: 20px;
+}div#umsLimitTxt{
+float: left;
+height: 37px;
+width: 95px;
+padding-top: 20px;
+}div#umsActionTxt{
+float: left;
+height: 37px;
+width: 75px;
+padding-top: 20px;
+}div#umsArea {
+float: left;
+width: 945px;
+margin-bottom: 5px;
+background-color: #f3f3f3;
+}div#cpPackageType {
+float: left;
+width: 215px;
+height: 21px;
+padding-top: 7px;
+}div#cpLimit {
+float: left;
+width: 175px;
+height: 21px;
+padding-top: 7px;
+}div#cpPackageTxt{
+float: left;
+height: 37px;
+width: 215px;
+padding-top: 20px;
+}div#cpLimitTxt{
+float: left;
+height: 37px;
+width: 175px;
+padding-top: 20px;
+}
+
+
+
+
+.tahoma_12_ash{
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #606060;
+	text-decoration: none;
+}.tahoma_12_ash a:hover{
+	text-decoration: underline;
+}.textfield {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #606060;
+	text-decoration: none;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
+/*....................................................19th of jan 2010 new style ends here.............................. */
+
+
+/*....................................................28th of jan 2010 new style Starts here.............................. */
+/*===================================FYI=======================================================================================================
+body styles @ line 2 has been changed, please concern about that
+*/
+
+div#addAllBtn {
+float: left;
+height: 25px;
+margin-left:346px;
+padding-bottom:15px;
+width: 104px;
+}div#bodyMusicRgt2 {
+float: left;
+width: 450px;
+}div#footerMain {
+height: 71px;
+background-image: url(../images/footerPxl.png);
+background-repeat: repeat-x;
+background-position:top;
+}div#footer2 {
+margin:auto;
+height: 42px;
+width: 196px;
+padding-top: 28px;
+padding-left: 752px;
+}div#musicEditArea {
+float: left;
+width: 750px;
+}div#musicEditInner {
+float: left;
+width: 730px;
+padding:10px;
+background-color:#ededed;
+}div#musicEditTxtAreaL {
+float: left;
+width: 425px;
+padding-top: 7px;
+}div#musicEditTxtAreaR {
+float: left;
+width: 305px;
+padding-top: 7px;
+text-align:right;
+}div#musicEditTxtArea {
+float: left;
+width: 400px;
+padding-top: 7px;
+padding-left: 14px;
+}div#musicEditInnerPlain {
+float: left;
+width: 750px;
+padding-bottom:15px;
+margin-top:15px;
+}div#musicEditFileUploadMain {
+float: left;
+width: 297px;
+height:257px;
+margin-right:8px;
+background-color:#ededed;
+}div#musicEditFileUploadL {
+float: left;
+width: 287px;
+padding: 5px;
+}div#musicEditFileUploadR {
+float: left;
+width: 445px;
+padding-bottom:5px;
+}div#photoBoxVideo2{
+float: left;
+width: 83px;
+height: auto;
+margin-right: 6px;
+}div#musicEditFileUTxtArea {
+float: left;
+width: 275px;
+margin-bottom:5px;
+margin-top:5px;
+text-align:right;
+}div#note2new {
+	float: left;
+	height: auto;
+	width: 126px;/*205*/
+	padding-top: 7px;
+}div#textBarNew {
+	float: left;
+	height: auto;
+	width: 464px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}div#adminLoginArea{
+	float: left;
+	height:221px;
+	width:480px;
+}div#adminLoginSide{
+	float: left;
+	height:221px;
+	width:15px;
+}div#adminLoginCenter{
+	float: left;
+	background-image:url(../images/admin_login_bg.png);
+	background-repeat:repeat-x;
+	height:221px;
+	width:450px;
+}div#adminLoginTop{
+	float: left;
+	height:69px;
+	margin-top:8px;
+	width:450px;
+}div#adminLoginBody{
+	float: left;
+	height:124px;
+	margin-top:20px;
+	margin-left:50px;
+	width:400px;
+}
+div#adminNavigator {
+	float: left;
+	height: 41px;
+	text-align:center;
+	margin-top:20px;
+	width: 948px;
+}div#buttonContainerAdmin {
+	float: left;
+	width: 948px;
+	padding-top: 14px;
+}div#formRowAdmin {
+	float: left;
+	height: 35px;
+	width: 390px;
+	text-align:center;
+}div#addMusicBttnAdmin {
+	margin:auto;
+	width: 390px;
+}div#addMusicBttnAdmin2 {
+	margin:auto;
+	width: 600px;
+}div#titleLftAdmin{
+	float: left;
+	height: 21px;
+	width: 161px;
+	padding-top: 7px;
+	padding-left: 10px;
+}div#titleLftNum{
+	float: left;
+	height: 21px;
+	margin-left:10px;
+	width: 40px;
+	padding-top: 7px;
+}div#titleLftAdminArea{
+	float: left;
+	height: 21px;
+	width:46px;
+	margin-left:7px;
+	margin-right:7px;
+	padding-top: 7px;
+}div#titleBoxAdmin {
+	float: left;
+	height: 28px;
+	width: 600px;
+	margin-bottom: 2px;
+	background-color: #043f53;
+}div#textBarAdmin {
+	float: left;
+	height: 28px;
+	width: 600px;
+	margin-bottom: 1px;
+	background-color: #f3f3f3;
+}div#textBarAdmin2 {
+	float: left;
+	height: 28px;
+	width: 600px;
+	text-align:center;
+	margin-bottom: 1px;
+}div#formRowUpload {
+	float:left;
+	width: 390px;
+}.wizardBtn {
+	float:left;
+	margin-right:20px;
+	margin-top:10px;
+}div#wizardColorBlob {
+	float:left;
+	width: 25px;
+	margin-left:10px;
+	height: 21px;
+	padding-top: 7px;
+}div#noteTxtFld {
+	float: left;
+	height: 21px;
+	width: 200px;
+	padding-top: 2px;
+}
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <name>Test2</name>
+    <preview>default.jpg</preview>
+    <icon_sets>
+        <tab_bar>Default</tab_bar>
+        <middle_tabs>Default</middle_tabs>
+        <fan_wall>Funky</fan_wall>
+        <general>Default</general>
+        <music>Default</music>
+    </icon_sets>
+    <images>Default</images>
+    <colors>Love</colors>
+</theme>
